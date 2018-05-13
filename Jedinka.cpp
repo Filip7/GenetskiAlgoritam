@@ -60,6 +60,7 @@ namespace GA {
             }
         }
         x_dec = binarniUDecimalni(x);
+        dobrota_jedinke = static_cast<int>(dobrota(x_dec));
     }
 
     void Jedinka::ispisi(bool ispisi_bin) {
