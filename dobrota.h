@@ -6,15 +6,20 @@
 #define GENETSKIALGORITAM_DOBROTA_H
 
 #include <vector>
+#include <cmath>
 
 constexpr int BROJ_BITOVA = 10;
+constexpr double VJEROJATNONST_MUTACIJE = 0.01;
 
 int binarniUDecimalni(std::vector<int> jedinka) {
     int dec = 0;
     int mnozitelj = 1;
-    for (int i = 9; i >= 0; --i) {
-        dec += (mnozitelj * jedinka[i]);
+    int j = 0;
+    for (int i = BROJ_BITOVA - 1; i >= 0; --i) {
+        //dec += (mnozitelj * jedinka[i]);
+        dec += (std::pow(2, j) * jedinka[i]);
         mnozitelj *= 2;
+        ++j;
     }
 
     return dec;
