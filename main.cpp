@@ -36,6 +36,12 @@ int main() {
         dat.open(PUTANJA, ios_base::out);
     }
 
+    fstream datProsjek{"../Graf/prosjeci.txt", ios_base::out};
+    if(!datProsjek){
+        datProsjek.clear();
+        datProsjek.open(PUTANJA, ios_base::out);
+    }
+
     for(int iter = 0; iter < BROJ_ITERACIJA; ++iter){
         double ukupnaDobrotaJedinki = 0;
         double prosjecnaDobrotaJedinki;
@@ -52,6 +58,9 @@ int main() {
         }
 
         prosjecnaDobrotaJedinki = ukupnaDobrotaJedinki / jedinke.size();
+
+        datProsjek << prosjecnaDobrotaJedinki << endl;
+
         auto max = *std::max_element(begin(jedinke), end(jedinke), usporedbaDobroteJedinki);
         max->setElitna(true);
 
@@ -63,6 +72,8 @@ int main() {
     }
 
     dat.close();
+    datProsjek.close();
+
     isprazniJedinke(jedinke);
 
 	return 0;
