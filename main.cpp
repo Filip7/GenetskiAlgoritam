@@ -15,7 +15,7 @@ constexpr double VJEROJATNOST_KRIZANJA = 0.9;
 bool usporedbaDobroteJedinki(GA::Jedinka *x, GA::Jedinka *y);
 void ispis(vector<GA::Jedinka*> &jedinke, double ukupnaDobrotaJedinki, double prosjecnaDobrotaJedinki, GA::Jedinka *max);
 void zapisUDatoteku(fstream &dat, vector<GA::Jedinka*> &jedinke, double ukupnaDobrotaJedinki, double prosjecnaDobrotaJedinki, GA::Jedinka *max);
-vector<GA::Jedinka*> selektirajJedinke(vector<GA::Jedinka*> &jedinke, double ukupnaDobrota, GA::Jedinka *max);
+vector<GA::Jedinka*> selektirajJedinke(vector<GA::Jedinka*> &jedinke, GA::Jedinka *max);
 
 void isprazniJedinke(vector<GA::Jedinka *> &jedinke);
 
@@ -58,7 +58,7 @@ int main() {
         ispis(jedinke, ukupnaDobrotaJedinki, prosjecnaDobrotaJedinki, max);
         zapisUDatoteku(dat, jedinke, ukupnaDobrotaJedinki, prosjecnaDobrotaJedinki, max);
 
-        jedinke = selektirajJedinke(jedinke, ukupnaDobrotaJedinki, max);
+        jedinke = selektirajJedinke(jedinke, max);
         sort(jedinke.begin(), jedinke.end(), usporedbaDobroteJedinki);
     }
 
