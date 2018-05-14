@@ -14,15 +14,17 @@ namespace GA {
 
     class Jedinka {
         friend std::ostream& operator<<(std::ostream& os, const Jedinka& jed);
+
         friend bool operator==(const Jedinka& lijevi, const Jedinka& desni);
+
         friend bool operator!=(const Jedinka& lijevi, const Jedinka& desni);
+
     private:
         std::vector<int> x;
         int dobrota_jedinke;
         int normalizirana_dobrota_jedinke;
         int x_dec;
         double vjerojatnostP;
-        bool elitna;
 
     public:
         /**
@@ -36,20 +38,14 @@ namespace GA {
          * @param roditelj1 prvi roditelj
          * @param roditelj2 drugi roditlej
          */
-        Jedinka(Jedinka &roditelj1, Jedinka &roditelj2);
+        Jedinka(Jedinka& roditelj1, Jedinka& roditelj2);
 
-        const std::vector<int> &getX() const;
-        void setX(const std::vector<int> &x);
-
-        double getVjerojatnostP() const;
-        void setVjerojatnostP(double vjerojatnostP);
+        const std::vector<int>& getX() const;
 
         int getDobrota_jedinke() const;
 
-        bool isElitna() const;
-        void setElitna(bool elitna);
-
         int getNormalizirana_dobrota_jedinke() const;
+
         void setNormalizirana_dobrota_jedinke(int normalizirana_dobrota_jedinke);
 
         int getX_dec() const;
@@ -64,7 +60,6 @@ namespace GA {
          * @param ispisi_bin true ako se ispisuje binarni zapis X-a, odnosno false ako se ne ispisuje
          */
         void ispisi(bool ispisi_bin = false);
-
     };
 
 }

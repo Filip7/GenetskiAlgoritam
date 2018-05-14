@@ -12,58 +12,62 @@ constexpr int BROJ_ITERACIJA = 30;
 constexpr int VELICINA_POPULACIJE = 20;
 constexpr double VJEROJATNOST_KRIZANJA = 0.9;
 
-void ispis(vector<GA::Jedinka*> &jedinke, double ukupnaDobrotaJedinki, double prosjecnaDobrotaJedinki, GA::Jedinka *max);
-void zapisUDatoteku(fstream &dat, vector<GA::Jedinka*> &jedinke, double ukupnaDobrotaJedinki, double prosjecnaDobrotaJedinki, GA::Jedinka *max);
-vector<GA::Jedinka*> selektirajJedinke(vector<GA::Jedinka*> &jedinke, GA::Jedinka *max);
+void
+ispis(vector<GA::Jedinka*>& jedinke, double ukupnaDobrotaJedinki, double prosjecnaDobrotaJedinki, GA::Jedinka* max);
 
-void isprazniJedinke(vector<GA::Jedinka *> &jedinke);
+void
+zapisUDatoteku(fstream& dat, vector<GA::Jedinka*>& jedinke, double ukupnaDobrotaJedinki, double prosjecnaDobrotaJedinki,
+        GA::Jedinka* max);
 
-int main() {
+vector<GA::Jedinka*> selektirajJedinke(vector<GA::Jedinka*>& jedinke, GA::Jedinka* max);
+
+void isprazniJedinke(vector<GA::Jedinka*>& jedinke);
+
+int main()
+{
     string PUTANJA = "../genetskiAlgoritamRezultat.txt";
     vector<GA::Jedinka*> jedinke;
 
-    auto usporedi = [] (GA::Jedinka *x, GA::Jedinka *y) { return x->getDobrota_jedinke() < y->getDobrota_jedinke();  };
+    auto usporedi = [](GA::Jedinka* x, GA::Jedinka* y) { return x->getDobrota_jedinke()<y->getDobrota_jedinke(); };
 
     /*Izrada prve populacije, sve jednike su nasumicno generirane*/
-    for(int i = 0; i < VELICINA_POPULACIJE; ++i){
+    for (int i = 0; i<VELICINA_POPULACIJE; ++i) {
         jedinke.push_back(new GA::Jedinka);
     }
 
     sort(jedinke.begin(), jedinke.end(), usporedi);
 
     fstream dat{PUTANJA, ios_base::out};
-    if(!dat){
+    if (!dat) {
         dat.clear();
         dat.open(PUTANJA, ios_base::out);
     }
 
     fstream datProsjek{"../Graf/prosjeci.txt", ios_base::out};
-    if(!datProsjek){
+    if (!datProsjek) {
         datProsjek.clear();
         datProsjek.open(PUTANJA, ios_base::out);
     }
 
-    for(int iter = 0; iter < BROJ_ITERACIJA; ++iter){
+    for (int iter = 0; iter<BROJ_ITERACIJA; ++iter) {
         double ukupnaDobrotaJedinki = 0;
         double prosjecnaDobrotaJedinki;
-        cout << "Generacija: " << iter + 1 << endl;
-        dat << "Generacija: " << iter + 1 << endl;
+        cout << "Generacija: " << iter+1 << endl;
+        dat << "Generacija: " << iter+1 << endl;
 
-        for(auto &jedinka : jedinke){
+        for (auto& jedinka : jedinke) {
             ukupnaDobrotaJedinki += jedinka->getDobrota_jedinke();
         }
 
-        for(auto &jedinka : jedinke){
+        for (auto& jedinka : jedinke) {
             auto normaliziranaDobrota = jedinka->getDobrota_jedinke() / ukupnaDobrotaJedinki * 100;
             jedinka->setNormalizirana_dobrota_jedinke(static_cast<int>(normaliziranaDobrota));
         }
 
         prosjecnaDobrotaJedinki = ukupnaDobrotaJedinki / jedinke.size();
-
         datProsjek << prosjecnaDobrotaJedinki << endl;
 
         auto max = *std::max_element(begin(jedinke), end(jedinke), usporedi);
-        max->setElitna(true);
 
         ispis(jedinke, ukupnaDobrotaJedinki, prosjecnaDobrotaJedinki, max);
         zapisUDatoteku(dat, jedinke, ukupnaDobrotaJedinki, prosjecnaDobrotaJedinki, max);
@@ -77,7 +81,7 @@ int main() {
 
     isprazniJedinke(jedinke);
 
-	return 0;
+    return 0;
 }
 
 /**
@@ -86,8 +90,8 @@ int main() {
  * @param max maksimalna jedinka, koristi se za elitizam
  * @return vector nove generacije jedinki
  */
-vector<GA::Jedinka*> selektirajJedinke(vector<GA::Jedinka*> &jedinke, GA::Jedinka *max){
-    //TODO Optimizirati selekciju
+vector<GA::Jedinka*> selektirajJedinke(vector<GA::Jedinka*>& jedinke, GA::Jedinka* max)
+{
     random_device rd;
     mt19937 mt(rd());
     uniform_real_distribution<double> vjerojatnost_krizanja(0, 1);
@@ -95,37 +99,48 @@ vector<GA::Jedinka*> selektirajJedinke(vector<GA::Jedinka*> &jedinke, GA::Jedink
     vector<unsigned int> pool;
     vector<GA::Jedinka*> nova_populacija;
     nova_populacija.push_back(max);
-    max->setElitna(false);
 
-    for(unsigned int i = 0; i < VELICINA_POPULACIJE; ++i){
-        int n = jedinke[i]->getNormalizirana_dobrota_jedinke(); //Neki ispadaju 0 pa se ne unose po trenutacnoj implementaciji
-        for(int j = 0; j < n; ++j){
+    // Izrada "poola" jedinki gdje se biraju nasumicni za razmnozavanje
+    for (unsigned int i = 0; i<VELICINA_POPULACIJE; ++i) {
+        int n = jedinke[i]->getNormalizirana_dobrota_jedinke();
+        //Dajemo malu sansu i jedinkama sa najgorom dobrotom (0)
+        if (n==0) n++;
+        for (int j = 0; j<n; ++j) {
             pool.push_back(i);
         }
     }
 
     auto broj_jedinki_u_poolu = static_cast<int>(pool.size());
     uniform_int_distribution<int> odabranik(0, broj_jedinki_u_poolu);
-    while(nova_populacija.size() != VELICINA_POPULACIJE){
+    // Izrada novih jedniki dok god populacija ne dostigne zadanu velicinu
+    while (nova_populacija.size()!=VELICINA_POPULACIJE) {
         bool kontrola = true;
         int rod1 = odabranik(mt);
         int rod2 = odabranik(mt);
-        while(rod1 == rod2){
+        while (rod1==rod2) {
+            // Ako su odabrana dva ista roditelja trazi drugog dok nije razlicit
             rod2 = odabranik(mt);
         }
 
-        if(vjerojatnost_krizanja(mt) < VJEROJATNOST_KRIZANJA){
-            auto *dijete = new GA::Jedinka(*jedinke.at(pool[rod1]), *jedinke.at(pool[rod2]));
+        // Racunamo vjerojatnost krizanja te ako je zadovoljeno krizamo jedinke
+        if (vjerojatnost_krizanja(mt)<VJEROJATNOST_KRIZANJA) {
+            auto* dijete = new GA::Jedinka(*jedinke.at(pool[rod1]), *jedinke.at(pool[rod2]));
+            // Nakon izrade dijete se mutira
             dijete->mutiraj();
-            for(auto &rod : nova_populacija){
-                if(*dijete == *rod)
+            for (auto& rod : nova_populacija) {
+                if (*dijete == *rod) {
+                    // Ako dijete vec postoji, ne pohranjujemo ga nego ponavljamo selekciju
                     kontrola = false;
+                }
             }
-            if(kontrola) {
+
+            if (kontrola) {
+                // Dijete je unikatno te ga pohranjujemo u novu populaciju
                 nova_populacija.push_back(dijete);
             }
         }
     }
+
     return nova_populacija;
 }
 
@@ -133,8 +148,9 @@ vector<GA::Jedinka*> selektirajJedinke(vector<GA::Jedinka*> &jedinke, GA::Jedink
  * Brise vector jedinki
  * @param jedinke vector svih jedinki prethodne generacije
  */
-void isprazniJedinke(vector<GA::Jedinka *> &jedinke) {
-    for(int iter = VELICINA_POPULACIJE - 1; iter >= 0; --iter){
+void isprazniJedinke(vector<GA::Jedinka*>& jedinke)
+{
+    for (int iter = VELICINA_POPULACIJE-1; iter>=0; --iter) {
         delete jedinke[iter];
         jedinke.pop_back();
     }
@@ -148,8 +164,9 @@ void isprazniJedinke(vector<GA::Jedinka *> &jedinke) {
  * @param prosjecnaDobrotaJedinki prosjek dobrota generacije
  * @param max maksimalna jedinka, koristi se za elitizam
  */
-void ispis(vector<GA::Jedinka*> &jedinke, double ukupnaDobrotaJedinki, double prosjecnaDobrotaJedinki, GA::Jedinka *max){
-    for(auto &jedinka : jedinke){
+void ispis(vector<GA::Jedinka*>& jedinke, double ukupnaDobrotaJedinki, double prosjecnaDobrotaJedinki, GA::Jedinka* max)
+{
+    for (auto& jedinka : jedinke) {
         jedinka->ispisi(true);
         //cout << *jedinka << endl;
     }
@@ -167,8 +184,11 @@ void ispis(vector<GA::Jedinka*> &jedinke, double ukupnaDobrotaJedinki, double pr
  * @param prosjecnaDobrotaJedinki prosjek dobrota generacije
  * @param max maksimalna jedinka, koristi se za elitizam
  */
-void zapisUDatoteku(fstream &dat, vector<GA::Jedinka*> &jedinke, double ukupnaDobrotaJedinki, double prosjecnaDobrotaJedinki, GA::Jedinka *max){
-    for(auto &jedinka : jedinke){
+void
+zapisUDatoteku(fstream& dat, vector<GA::Jedinka*>& jedinke, double ukupnaDobrotaJedinki, double prosjecnaDobrotaJedinki,
+        GA::Jedinka* max)
+{
+    for (auto& jedinka : jedinke) {
         dat << "X: ";
         dat.width(4);
         dat << jedinka->getX_dec();

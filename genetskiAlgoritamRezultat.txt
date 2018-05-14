@@ -1,810 +1,810 @@
 Generacija: 1
-X:  972	Dobrota:   0
-X:  503	Dobrota:  12
-X:  535	Dobrota:  37
-X:  215	Dobrota:  53
-X:   23	Dobrota:  60
-X:  188	Dobrota:  63
-X:  188	Dobrota:  63
-X:  221	Dobrota:  64
-X:  717	Dobrota:  64
-X:  225	Dobrota:  71
-X:  932	Dobrota:  74
-X:  174	Dobrota:  75
-X:  164	Dobrota:  83
-X:   75	Dobrota: 105
-X:  107	Dobrota: 120
-X:  638	Dobrota: 169
-X:  314	Dobrota: 178
+X:  980	Dobrota:   0
+X:  501	Dobrota:  16
+X:  538	Dobrota:  42
+X:  706	Dobrota:  78
+X:  152	Dobrota:  93
+X:  445	Dobrota: 117
+X:  121	Dobrota: 119
+X:  115	Dobrota: 120
+X:  590	Dobrota: 120
+X:  797	Dobrota: 130
+X:  667	Dobrota: 130
+X:  429	Dobrota: 145
+X:  428	Dobrota: 147
+X:  277	Dobrota: 150
+X:  288	Dobrota: 150
+X:  301	Dobrota: 152
+X:  425	Dobrota: 153
+X:  902	Dobrota: 154
+X:  419	Dobrota: 163
 X:  399	Dobrota: 199
-X:  385	Dobrota: 225
-X:  861	Dobrota: 226
 
-Max dobrota jedinke: 226
-Prosjecna dobrota jedinki: 97.05
-Ukupna dobrota jedinki: 1941
+Max dobrota jedinke: 199
+Prosjecna dobrota jedinki: 118.9
+Ukupna dobrota jedinki: 2378
 
 
 Generacija: 2
-X:  972	Dobrota:   0
-X:  517	Dobrota:  10
-X:  527	Dobrota:  25
-X:  495	Dobrota:  27
-X:  188	Dobrota:  63
-X:  174	Dobrota:  75
-X:  164	Dobrota:  83
-X:  700	Dobrota:  86
-X:   58	Dobrota:  88
-X:  156	Dobrota:  90
-X:  792	Dobrota: 123
-X:  257	Dobrota: 127
-X:  908	Dobrota: 138
-X:  602	Dobrota: 138
-X:  422	Dobrota: 158
-X:  315	Dobrota: 180
-X:  836	Dobrota: 189
-X:  329	Dobrota: 208
-X:  335	Dobrota: 220
-X:  861	Dobrota: 226
+X:  481	Dobrota:  52
+X:  717	Dobrota:  64
+X:  933	Dobrota:  71
+X:   53	Dobrota:  83
+X:  162	Dobrota:  85
+X:   61	Dobrota:  91
+X:  781	Dobrota: 106
+X:  789	Dobrota: 118
+X:  115	Dobrota: 120
+X:  429	Dobrota: 145
+X:  427	Dobrota: 149
+X:  812	Dobrota: 153
+X:  303	Dobrota: 156
+X:  305	Dobrota: 160
+X:  421	Dobrota: 160
+X:  313	Dobrota: 176
+X:  317	Dobrota: 184
+X:  399	Dobrota: 199
+X:  396	Dobrota: 205
+X:  355	Dobrota: 260
 
-Max dobrota jedinke: 226
-Prosjecna dobrota jedinki: 112.7
-Ukupna dobrota jedinki: 2254
+Max dobrota jedinke: 260
+Prosjecna dobrota jedinki: 136.85
+Ukupna dobrota jedinki: 2737
 
 
 Generacija: 3
-X:  988	Dobrota:   0
-X:   11	Dobrota:  60
-X:  556	Dobrota:  69
-X:  172	Dobrota:  76
-X:  700	Dobrota:  86
-X:  461	Dobrota:  88
-X:   62	Dobrota:  92
-X:  775	Dobrota:  97
-X:  121	Dobrota: 119
-X:  591	Dobrota: 121
-X:  428	Dobrota: 147
-X:  276	Dobrota: 150
-X:  281	Dobrota: 150
-X:  298	Dobrota: 150
-X:  315	Dobrota: 180
-X:  398	Dobrota: 201
-X:  852	Dobrota: 213
-X:  861	Dobrota: 226
-X:  379	Dobrota: 235
-X:  351	Dobrota: 252
+X:  481	Dobrota:  52
+X:   50	Dobrota:  80
+X:  162	Dobrota:  85
+X:   58	Dobrota:  88
+X:  140	Dobrota: 103
+X:  917	Dobrota: 114
+X:  259	Dobrota: 130
+X:  431	Dobrota: 142
+X:  429	Dobrota: 145
+X:  268	Dobrota: 146
+X:  287	Dobrota: 150
+X:  300	Dobrota: 150
+X:  294	Dobrota: 150
+X:  313	Dobrota: 176
+X:  317	Dobrota: 184
+X:  835	Dobrota: 187
+X:  319	Dobrota: 188
+X:  395	Dobrota: 207
+X:  381	Dobrota: 232
+X:  355	Dobrota: 260
 
-Max dobrota jedinke: 252
-Prosjecna dobrota jedinki: 135.6
-Ukupna dobrota jedinki: 2712
+Max dobrota jedinke: 260
+Prosjecna dobrota jedinki: 148.45
+Ukupna dobrota jedinki: 2969
 
 
 Generacija: 4
-X:  718	Dobrota:  62
-X:  700	Dobrota:  86
+X:    4	Dobrota:  60
+X:   42	Dobrota:  72
 X:  461	Dobrota:  88
-X:  237	Dobrota:  92
-X:  444	Dobrota: 118
-X:  120	Dobrota: 120
-X:  591	Dobrota: 121
+X:  259	Dobrota: 130
+X:  267	Dobrota: 144
 X:  428	Dobrota: 147
+X:  300	Dobrota: 150
 X:  299	Dobrota: 150
-X:  276	Dobrota: 150
-X:  281	Dobrota: 150
-X:  895	Dobrota: 173
-X:  314	Dobrota: 178
-X:  315	Dobrota: 180
+X:  284	Dobrota: 150
+X:  288	Dobrota: 150
+X:  307	Dobrota: 164
+X:  413	Dobrota: 174
+X:  313	Dobrota: 176
 X:  317	Dobrota: 184
-X:  329	Dobrota: 208
-X:  335	Dobrota: 220
-X:  379	Dobrota: 235
-X:  347	Dobrota: 244
-X:  351	Dobrota: 252
+X:  319	Dobrota: 188
+X:  323	Dobrota: 196
+X:  867	Dobrota: 235
+X:  371	Dobrota: 250
+X:  367	Dobrota: 257
+X:  355	Dobrota: 260
 
-Max dobrota jedinke: 252
-Prosjecna dobrota jedinki: 157.9
-Ukupna dobrota jedinki: 3158
+Max dobrota jedinke: 260
+Prosjecna dobrota jedinki: 166.25
+Ukupna dobrota jedinki: 3325
 
 
 Generacija: 5
-X:  525	Dobrota:  22
-X:  717	Dobrota:  64
-X:  461	Dobrota:  88
-X:   88	Dobrota: 118
-X:   91	Dobrota: 120
-X:  798	Dobrota: 132
-X:  428	Dobrota: 147
-X:  296	Dobrota: 150
-X:  315	Dobrota: 180
-X:  831	Dobrota: 181
-X:  316	Dobrota: 182
-X:  317	Dobrota: 184
-X:  396	Dobrota: 205
-X:  847	Dobrota: 205
-X:  329	Dobrota: 208
-X:  333	Dobrota: 216
+X:   47	Dobrota:  77
+X:   58	Dobrota:  88
+X:  264	Dobrota: 139
+X:  803	Dobrota: 139
+X:  265	Dobrota: 141
+X:  300	Dobrota: 150
+X:  302	Dobrota: 154
+X:  303	Dobrota: 156
+X:  305	Dobrota: 160
+X:  307	Dobrota: 164
+X:  311	Dobrota: 172
+X:  319	Dobrota: 188
+X:  323	Dobrota: 196
 X:  383	Dobrota: 228
+X:  865	Dobrota: 232
 X:  379	Dobrota: 235
-X:  347	Dobrota: 244
-X:  351	Dobrota: 252
+X:  370	Dobrota: 252
+X:  355	Dobrota: 260
+X:  363	Dobrota: 264
+X:  359	Dobrota: 268
 
-Max dobrota jedinke: 252
-Prosjecna dobrota jedinki: 168.05
-Ukupna dobrota jedinki: 3361
+Max dobrota jedinke: 268
+Prosjecna dobrota jedinki: 183.15
+Ukupna dobrota jedinki: 3663
 
 
 Generacija: 6
-X:   89	Dobrota: 119
-X:  287	Dobrota: 150
+X:   35	Dobrota:  65
+X:   92	Dobrota: 120
+X:  259	Dobrota: 130
+X:  265	Dobrota: 141
+X:  267	Dobrota: 144
+X:  289	Dobrota: 150
+X:  281	Dobrota: 150
 X:  298	Dobrota: 150
-X:  296	Dobrota: 150
-X:  424	Dobrota: 154
-X:  312	Dobrota: 174
-X:  893	Dobrota: 178
-X:  411	Dobrota: 178
-X:  831	Dobrota: 181
-X:  318	Dobrota: 186
-X:  847	Dobrota: 205
-X:  331	Dobrota: 212
-X:  335	Dobrota: 220
-X:  383	Dobrota: 228
+X:  299	Dobrota: 150
+X:  302	Dobrota: 154
+X:  315	Dobrota: 180
+X:  323	Dobrota: 196
+X:  381	Dobrota: 232
+X:  865	Dobrota: 232
 X:  379	Dobrota: 235
-X:  344	Dobrota: 238
-X:  346	Dobrota: 242
-X:  351	Dobrota: 252
-X:  363	Dobrota: 264
-X:  361	Dobrota: 268
+X:  347	Dobrota: 244
+X:  371	Dobrota: 250
+X:  367	Dobrota: 257
+X:  355	Dobrota: 260
+X:  359	Dobrota: 268
 
 Max dobrota jedinke: 268
-Prosjecna dobrota jedinki: 199.2
-Ukupna dobrota jedinki: 3984
+Prosjecna dobrota jedinki: 185.4
+Ukupna dobrota jedinki: 3708
 
 
 Generacija: 7
-X:   89	Dobrota: 119
-X:   95	Dobrota: 120
-X:  799	Dobrota: 133
-X:  283	Dobrota: 150
-X:  287	Dobrota: 150
-X:  831	Dobrota: 181
-X:  317	Dobrota: 184
-X:  318	Dobrota: 186
+X:  120	Dobrota: 120
+X:   92	Dobrota: 120
+X:   94	Dobrota: 120
+X:  817	Dobrota: 160
+X:  315	Dobrota: 180
 X:  319	Dobrota: 188
-X:  330	Dobrota: 210
+X:  321	Dobrota: 192
+X:  323	Dobrota: 196
+X:  327	Dobrota: 204
 X:  331	Dobrota: 212
-X:  334	Dobrota: 218
-X:  335	Dobrota: 220
-X:  861	Dobrota: 226
-X:  875	Dobrota: 226
 X:  383	Dobrota: 228
-X:  863	Dobrota: 229
+X:  380	Dobrota: 234
 X:  379	Dobrota: 235
+X:  347	Dobrota: 244
+X:  367	Dobrota: 257
+X:  354	Dobrota: 258
+X:  355	Dobrota: 260
+X:  365	Dobrota: 261
 X:  363	Dobrota: 264
-X:  361	Dobrota: 268
+X:  359	Dobrota: 268
 
 Max dobrota jedinke: 268
-Prosjecna dobrota jedinki: 197.35
-Ukupna dobrota jedinki: 3947
+Prosjecna dobrota jedinki: 210.05
+Ukupna dobrota jedinki: 4201
 
 
 Generacija: 8
-X:  795	Dobrota: 127
-X:  605	Dobrota: 142
-X:  267	Dobrota: 144
-X:  271	Dobrota: 150
-X:  277	Dobrota: 150
-X:  287	Dobrota: 150
-X:  317	Dobrota: 184
+X:   92	Dobrota: 120
+X:   94	Dobrota: 120
+X:  291	Dobrota: 150
 X:  319	Dobrota: 188
-X:  846	Dobrota: 204
-X:  329	Dobrota: 208
-X:  330	Dobrota: 210
-X:  334	Dobrota: 218
+X:  325	Dobrota: 200
+X:  327	Dobrota: 204
+X:  331	Dobrota: 212
 X:  335	Dobrota: 220
-X:  863	Dobrota: 229
+X:  383	Dobrota: 228
+X:  339	Dobrota: 228
+X:  380	Dobrota: 234
 X:  379	Dobrota: 235
-X:  348	Dobrota: 246
-X:  351	Dobrota: 252
+X:  377	Dobrota: 239
+X:  376	Dobrota: 241
+X:  375	Dobrota: 243
+X:  374	Dobrota: 244
 X:  367	Dobrota: 257
 X:  355	Dobrota: 260
-X:  361	Dobrota: 268
+X:  363	Dobrota: 264
+X:  359	Dobrota: 268
 
 Max dobrota jedinke: 268
-Prosjecna dobrota jedinki: 202.1
-Ukupna dobrota jedinki: 4042
+Prosjecna dobrota jedinki: 217.75
+Ukupna dobrota jedinki: 4355
 
 
 Generacija: 9
-X:  795	Dobrota: 127
-X:  604	Dobrota: 141
-X:  265	Dobrota: 141
-X:  281	Dobrota: 150
-X:  287	Dobrota: 150
-X:  283	Dobrota: 150
-X:  317	Dobrota: 184
-X:  319	Dobrota: 188
-X:  847	Dobrota: 205
-X:  329	Dobrota: 208
+X:  483	Dobrota:  48
+X:   79	Dobrota: 109
+X:  295	Dobrota: 150
+X:  311	Dobrota: 172
+X:  327	Dobrota: 204
 X:  335	Dobrota: 220
-X:  381	Dobrota: 232
-X:  341	Dobrota: 232
-X:  867	Dobrota: 235
+X:  338	Dobrota: 226
+X:  383	Dobrota: 228
+X:  380	Dobrota: 234
+X:  379	Dobrota: 235
+X:  343	Dobrota: 236
 X:  376	Dobrota: 241
-X:  349	Dobrota: 248
-X:  351	Dobrota: 252
+X:  375	Dobrota: 243
+X:  371	Dobrota: 250
+X:  367	Dobrota: 257
 X:  355	Dobrota: 260
+X:  365	Dobrota: 261
 X:  363	Dobrota: 264
-X:  361	Dobrota: 268
+X:  362	Dobrota: 266
+X:  359	Dobrota: 268
 
 Max dobrota jedinke: 268
-Prosjecna dobrota jedinki: 204.8
-Ukupna dobrota jedinki: 4096
+Prosjecna dobrota jedinki: 218.6
+Ukupna dobrota jedinki: 4372
 
 
 Generacija: 10
-X:  265	Dobrota: 141
-X:  269	Dobrota: 148
-X:  287	Dobrota: 150
-X:  297	Dobrota: 150
-X:  319	Dobrota: 188
-X:  405	Dobrota: 189
-X:  321	Dobrota: 192
-X:  329	Dobrota: 208
+X:   75	Dobrota: 105
+X:   79	Dobrota: 109
+X:   87	Dobrota: 117
+X:   91	Dobrota: 120
+X:  263	Dobrota: 137
+X:  295	Dobrota: 150
+X:  327	Dobrota: 204
+X:  334	Dobrota: 218
 X:  335	Dobrota: 220
-X:  875	Dobrota: 226
-X:  861	Dobrota: 226
+X:  380	Dobrota: 234
 X:  379	Dobrota: 235
-X:  867	Dobrota: 235
-X:  376	Dobrota: 241
+X:  343	Dobrota: 236
 X:  375	Dobrota: 243
-X:  353	Dobrota: 256
-X:  355	Dobrota: 260
-X:  363	Dobrota: 264
-X:  361	Dobrota: 268
+X:  347	Dobrota: 244
+X:  371	Dobrota: 250
+X:  368	Dobrota: 255
+X:  354	Dobrota: 258
+X:  358	Dobrota: 266
+X:  359	Dobrota: 268
 X:  360	Dobrota: 270
 
 Max dobrota jedinke: 270
-Prosjecna dobrota jedinki: 215.5
-Ukupna dobrota jedinki: 4310
+Prosjecna dobrota jedinki: 206.95
+Ukupna dobrota jedinki: 4139
 
 
 Generacija: 11
-X:  481	Dobrota:  52
-X:  797	Dobrota: 130
-X:  267	Dobrota: 144
-X:  289	Dobrota: 150
-X:  291	Dobrota: 150
-X:  284	Dobrota: 150
-X:  413	Dobrota: 174
-X:  313	Dobrota: 176
-X:  893	Dobrota: 178
-X:  319	Dobrota: 188
-X:  321	Dobrota: 192
-X:  875	Dobrota: 226
-X:  874	Dobrota: 229
-X:  873	Dobrota: 231
+X:   71	Dobrota: 101
+X:  127	Dobrota: 114
+X:  107	Dobrota: 120
+X:  279	Dobrota: 150
+X:  323	Dobrota: 196
+X:  326	Dobrota: 202
+X:  330	Dobrota: 210
+X:  334	Dobrota: 218
+X:  337	Dobrota: 224
+X:  340	Dobrota: 230
+X:  342	Dobrota: 234
+X:  343	Dobrota: 236
 X:  375	Dobrota: 243
-X:  353	Dobrota: 256
-X:  355	Dobrota: 260
+X:  370	Dobrota: 252
+X:  365	Dobrota: 261
 X:  363	Dobrota: 264
-X:  361	Dobrota: 268
+X:  362	Dobrota: 266
+X:  358	Dobrota: 266
+X:  359	Dobrota: 268
 X:  360	Dobrota: 270
 
 Max dobrota jedinke: 270
-Prosjecna dobrota jedinki: 196.55
-Ukupna dobrota jedinki: 3931
+Prosjecna dobrota jedinki: 216.25
+Ukupna dobrota jedinki: 4325
 
 
 Generacija: 12
-X:  925	Dobrota:  93
-X:  777	Dobrota: 100
-X:  803	Dobrota: 139
-X:  269	Dobrota: 148
-X:  281	Dobrota: 150
-X:  301	Dobrota: 152
-X:  311	Dobrota: 172
-X:  313	Dobrota: 176
-X:  331	Dobrota: 212
-X:  333	Dobrota: 216
-X:  857	Dobrota: 220
-X:  875	Dobrota: 226
-X:  873	Dobrota: 231
-X:  379	Dobrota: 235
-X:  353	Dobrota: 256
-X:  366	Dobrota: 259
-X:  355	Dobrota: 260
-X:  363	Dobrota: 264
+X:  491	Dobrota:  34
+X:   87	Dobrota: 117
+X:  104	Dobrota: 120
+X:  791	Dobrota: 121
+X:  325	Dobrota: 200
+X:  334	Dobrota: 218
+X:  338	Dobrota: 226
+X:  381	Dobrota: 232
+X:  343	Dobrota: 236
+X:  375	Dobrota: 243
+X:  374	Dobrota: 244
+X:  371	Dobrota: 250
+X:  351	Dobrota: 252
+X:  370	Dobrota: 252
+X:  367	Dobrota: 257
+X:  354	Dobrota: 258
+X:  365	Dobrota: 261
+X:  362	Dobrota: 266
 X:  361	Dobrota: 268
 X:  360	Dobrota: 270
 
 Max dobrota jedinke: 270
-Prosjecna dobrota jedinki: 202.35
-Ukupna dobrota jedinki: 4047
+Prosjecna dobrota jedinki: 216.25
+Ukupna dobrota jedinki: 4325
 
 
 Generacija: 13
-X:  267	Dobrota: 144
-X:  269	Dobrota: 148
-X:  281	Dobrota: 150
-X:  285	Dobrota: 150
-X:  297	Dobrota: 150
-X:  311	Dobrota: 172
-X:  827	Dobrota: 175
-X:  841	Dobrota: 196
-X:  329	Dobrota: 208
-X:  335	Dobrota: 220
-X:  877	Dobrota: 221
-X:  875	Dobrota: 226
-X:  379	Dobrota: 235
-X:  345	Dobrota: 240
-X:  354	Dobrota: 258
-X:  355	Dobrota: 260
-X:  363	Dobrota: 264
-X:  357	Dobrota: 264
-X:  361	Dobrota: 268
-X:  360	Dobrota: 270
-
-Max dobrota jedinke: 270
-Prosjecna dobrota jedinki: 210.95
-Ukupna dobrota jedinki: 4219
-
-
-Generacija: 14
-X:  799	Dobrota: 133
-X:  265	Dobrota: 141
-X:  277	Dobrota: 150
-X:  283	Dobrota: 150
-X:  813	Dobrota: 154
-X:  827	Dobrota: 175
-X:  829	Dobrota: 178
-X:  889	Dobrota: 189
-X:  323	Dobrota: 196
-X:  328	Dobrota: 206
-X:  331	Dobrota: 212
-X:  335	Dobrota: 220
-X:  379	Dobrota: 235
-X:  377	Dobrota: 239
-X:  375	Dobrota: 243
-X:  357	Dobrota: 264
-X:  363	Dobrota: 264
-X:  362	Dobrota: 266
-X:  359	Dobrota: 268
-X:  360	Dobrota: 270
-
-Max dobrota jedinke: 270
-Prosjecna dobrota jedinki: 207.65
-Ukupna dobrota jedinki: 4153
-
-
-Generacija: 15
-X:  799	Dobrota: 133
-X:  265	Dobrota: 141
-X:  807	Dobrota: 145
-X:  281	Dobrota: 150
-X:  280	Dobrota: 150
-X:  895	Dobrota: 173
-X:  314	Dobrota: 178
-X:  891	Dobrota: 183
-X:  323	Dobrota: 196
-X:  325	Dobrota: 200
-X:  328	Dobrota: 206
-X:  329	Dobrota: 208
-X:  331	Dobrota: 212
-X:  859	Dobrota: 223
-X:  376	Dobrota: 241
-X:  375	Dobrota: 243
-X:  367	Dobrota: 257
-X:  355	Dobrota: 260
-X:  358	Dobrota: 266
-X:  360	Dobrota: 270
-
-Max dobrota jedinke: 270
-Prosjecna dobrota jedinki: 201.75
-Ukupna dobrota jedinki: 4035
-
-
-Generacija: 16
-X:  487	Dobrota:  41
-X:  538	Dobrota:  42
-X:  807	Dobrota: 145
-X:  268	Dobrota: 146
-X:  279	Dobrota: 150
-X:  297	Dobrota: 150
-X:  281	Dobrota: 150
-X:  304	Dobrota: 158
-X:  831	Dobrota: 181
-X:  887	Dobrota: 194
-X:  323	Dobrota: 196
-X:  327	Dobrota: 204
-X:  859	Dobrota: 223
-X:  867	Dobrota: 235
-X:  375	Dobrota: 243
-X:  347	Dobrota: 244
-X:  352	Dobrota: 254
-X:  368	Dobrota: 255
-X:  359	Dobrota: 268
-X:  360	Dobrota: 270
-
-Max dobrota jedinke: 270
-Prosjecna dobrota jedinki: 187.45
-Ukupna dobrota jedinki: 3749
-
-
-Generacija: 17
-X:   22	Dobrota:  60
-X:  266	Dobrota: 143
-X:  275	Dobrota: 150
-X:  810	Dobrota: 150
-X:  279	Dobrota: 150
-X:  288	Dobrota: 150
-X:  302	Dobrota: 154
-X:  303	Dobrota: 156
-X:  423	Dobrota: 156
-X:  823	Dobrota: 169
-X:  895	Dobrota: 173
-X:  315	Dobrota: 180
-X:  328	Dobrota: 206
-X:  339	Dobrota: 228
-X:  379	Dobrota: 235
-X:  867	Dobrota: 235
-X:  352	Dobrota: 254
-X:  355	Dobrota: 260
-X:  361	Dobrota: 268
-X:  360	Dobrota: 270
-
-Max dobrota jedinke: 270
-Prosjecna dobrota jedinki: 187.35
-Ukupna dobrota jedinki: 3747
-
-
-Generacija: 18
-X:   39	Dobrota:  69
-X:  262	Dobrota: 136
-X:  807	Dobrota: 145
-X:  288	Dobrota: 150
-X:  272	Dobrota: 150
-X:  811	Dobrota: 151
-X:  302	Dobrota: 154
-X:  307	Dobrota: 164
-X:  893	Dobrota: 178
-X:  322	Dobrota: 194
-X:  323	Dobrota: 196
-X:  328	Dobrota: 206
-X:  339	Dobrota: 228
-X:  867	Dobrota: 235
-X:  379	Dobrota: 235
-X:  354	Dobrota: 258
-X:  363	Dobrota: 264
-X:  362	Dobrota: 266
-X:  361	Dobrota: 268
-X:  360	Dobrota: 270
-
-Max dobrota jedinke: 270
-Prosjecna dobrota jedinki: 195.85
-Ukupna dobrota jedinki: 3917
-
-
-Generacija: 19
-X:  559	Dobrota:  73
-X:  792	Dobrota: 123
-X:  299	Dobrota: 150
-X:  270	Dobrota: 150
-X:  294	Dobrota: 150
-X:  814	Dobrota: 156
-X:  893	Dobrota: 178
-X:  889	Dobrota: 189
-X:  322	Dobrota: 194
-X:  323	Dobrota: 196
-X:  383	Dobrota: 228
-X:  874	Dobrota: 229
-X:  378	Dobrota: 237
-X:  376	Dobrota: 241
-X:  370	Dobrota: 252
-X:  352	Dobrota: 254
-X:  354	Dobrota: 258
-X:  355	Dobrota: 260
-X:  362	Dobrota: 266
-X:  360	Dobrota: 270
-
-Max dobrota jedinke: 270
-Prosjecna dobrota jedinki: 202.7
-Ukupna dobrota jedinki: 4054
-
-
-Generacija: 20
-X:  551	Dobrota:  61
-X:  430	Dobrota: 144
-X:  292	Dobrota: 150
-X:  282	Dobrota: 150
-X:  302	Dobrota: 154
-X:  815	Dobrota: 157
-X:  895	Dobrota: 173
-X:  315	Dobrota: 180
-X:  890	Dobrota: 186
-X:  322	Dobrota: 194
-X:  331	Dobrota: 212
-X:  875	Dobrota: 226
-X:  874	Dobrota: 229
-X:  867	Dobrota: 235
-X:  376	Dobrota: 241
-X:  370	Dobrota: 252
-X:  354	Dobrota: 258
-X:  355	Dobrota: 260
-X:  362	Dobrota: 266
-X:  360	Dobrota: 270
-
-Max dobrota jedinke: 270
-Prosjecna dobrota jedinki: 199.9
-Ukupna dobrota jedinki: 3998
-
-
-Generacija: 21
 X:  490	Dobrota:  36
-X:  563	Dobrota:  79
-X:  778	Dobrota: 102
-X:  280	Dobrota: 150
-X:  814	Dobrota: 156
-X:  815	Dobrota: 157
-X:  318	Dobrota: 186
-X:  835	Dobrota: 187
-X:  858	Dobrota: 222
-X:  875	Dobrota: 226
-X:  866	Dobrota: 234
-X:  872	Dobrota: 234
-X:  871	Dobrota: 237
-X:  353	Dobrota: 256
-X:  354	Dobrota: 258
-X:  365	Dobrota: 261
-X:  363	Dobrota: 264
-X:  362	Dobrota: 266
-X:  361	Dobrota: 268
-X:  360	Dobrota: 270
-
-Max dobrota jedinke: 270
-Prosjecna dobrota jedinki: 202.45
-Ukupna dobrota jedinki: 4049
-
-
-Generacija: 22
-X:  778	Dobrota: 102
-X:  794	Dobrota: 126
-X:  806	Dobrota: 144
-X:  297	Dobrota: 150
-X:  296	Dobrota: 150
-X:  299	Dobrota: 150
-X:  811	Dobrota: 151
-X:  312	Dobrota: 174
-X:  314	Dobrota: 178
-X:  876	Dobrota: 223
-X:  874	Dobrota: 229
-X:  873	Dobrota: 231
-X:  865	Dobrota: 232
-X:  871	Dobrota: 237
-X:  354	Dobrota: 258
-X:  366	Dobrota: 259
-X:  365	Dobrota: 261
-X:  361	Dobrota: 268
-X:  359	Dobrota: 268
-X:  360	Dobrota: 270
-
-Max dobrota jedinke: 270
-Prosjecna dobrota jedinki: 203.05
-Ukupna dobrota jedinki: 4061
-
-
-Generacija: 23
-X:  995	Dobrota:   0
-X:  290	Dobrota: 150
-X:  292	Dobrota: 150
-X:  811	Dobrota: 151
-X:  301	Dobrota: 152
-X:  312	Dobrota: 174
-X:  827	Dobrota: 175
-X:  864	Dobrota: 231
-X:  865	Dobrota: 232
-X:  872	Dobrota: 234
-X:  871	Dobrota: 237
-X:  869	Dobrota: 238
-X:  870	Dobrota: 239
-X:  352	Dobrota: 254
-X:  365	Dobrota: 261
-X:  364	Dobrota: 262
-X:  363	Dobrota: 264
-X:  358	Dobrota: 266
-X:  362	Dobrota: 266
-X:  360	Dobrota: 270
-
-Max dobrota jedinke: 270
-Prosjecna dobrota jedinki: 210.3
-Ukupna dobrota jedinki: 4206
-
-
-Generacija: 24
-X:  808	Dobrota: 147
-X:  297	Dobrota: 150
-X:  296	Dobrota: 150
-X:  294	Dobrota: 150
-X:  298	Dobrota: 150
-X:  290	Dobrota: 150
-X:  811	Dobrota: 151
-X:  301	Dobrota: 152
-X:  813	Dobrota: 154
-X:  825	Dobrota: 172
-X:  877	Dobrota: 221
-X:  875	Dobrota: 226
-X:  864	Dobrota: 231
-X:  868	Dobrota: 237
-X:  353	Dobrota: 256
-X:  354	Dobrota: 258
-X:  365	Dobrota: 261
-X:  364	Dobrota: 262
-X:  362	Dobrota: 266
-X:  360	Dobrota: 270
-
-Max dobrota jedinke: 270
-Prosjecna dobrota jedinki: 200.7
-Ukupna dobrota jedinki: 4014
-
-
-Generacija: 25
+X:   66	Dobrota:  96
 X:   73	Dobrota: 103
-X:  101	Dobrota: 120
-X:  800	Dobrota: 135
-X:  290	Dobrota: 150
-X:  296	Dobrota: 150
-X:  301	Dobrota: 152
-X:  816	Dobrota: 159
-X:  836	Dobrota: 189
-X:  877	Dobrota: 221
-X:  876	Dobrota: 223
-X:  864	Dobrota: 231
-X:  865	Dobrota: 232
-X:  872	Dobrota: 234
-X:  352	Dobrota: 254
-X:  367	Dobrota: 257
-X:  354	Dobrota: 258
-X:  365	Dobrota: 261
-X:  364	Dobrota: 262
-X:  362	Dobrota: 266
-X:  360	Dobrota: 270
-
-Max dobrota jedinke: 270
-Prosjecna dobrota jedinki: 206.35
-Ukupna dobrota jedinki: 4127
-
-
-Generacija: 26
-X: 1001	Dobrota:   0
-X:   65	Dobrota:  95
-X:  774	Dobrota:  96
-X:  298	Dobrota: 150
-X:  296	Dobrota: 150
-X:  292	Dobrota: 150
-X:  290	Dobrota: 150
-X:  816	Dobrota: 159
-X:  882	Dobrota: 207
-X:  873	Dobrota: 231
-X:  864	Dobrota: 231
-X:  866	Dobrota: 234
-X:  869	Dobrota: 238
-X:  366	Dobrota: 259
-X:  365	Dobrota: 261
-X:  364	Dobrota: 262
-X:  356	Dobrota: 262
-X:  357	Dobrota: 264
-X:  361	Dobrota: 268
-X:  360	Dobrota: 270
-
-Max dobrota jedinke: 270
-Prosjecna dobrota jedinki: 196.85
-Ukupna dobrota jedinki: 3937
-
-
-Generacija: 27
-X:  994	Dobrota:   0
-X:  258	Dobrota: 129
-X:  296	Dobrota: 150
-X:  298	Dobrota: 150
-X:  815	Dobrota: 157
-X:  889	Dobrota: 189
-X:  321	Dobrota: 192
-X:  328	Dobrota: 206
-X:  382	Dobrota: 230
-X:  868	Dobrota: 237
-X:  352	Dobrota: 254
-X:  354	Dobrota: 258
-X:  366	Dobrota: 259
-X:  365	Dobrota: 261
-X:  356	Dobrota: 262
-X:  364	Dobrota: 262
-X:  358	Dobrota: 266
-X:  362	Dobrota: 266
-X:  361	Dobrota: 268
-X:  360	Dobrota: 270
-
-Max dobrota jedinke: 270
-Prosjecna dobrota jedinki: 213.3
-Ukupna dobrota jedinki: 4266
-
-
-Generacija: 28
-X:  256	Dobrota: 125
-X:  302	Dobrota: 154
-X:  617	Dobrota: 160
-X:  321	Dobrota: 192
-X:  328	Dobrota: 206
-X:  335	Dobrota: 220
-X:  382	Dobrota: 230
-X:  869	Dobrota: 238
-X:  870	Dobrota: 239
-X:  352	Dobrota: 254
-X:  353	Dobrota: 256
-X:  354	Dobrota: 258
-X:  366	Dobrota: 259
-X:  365	Dobrota: 261
-X:  356	Dobrota: 262
-X:  364	Dobrota: 262
-X:  358	Dobrota: 266
-X:  362	Dobrota: 266
-X:  361	Dobrota: 268
-X:  360	Dobrota: 270
-
-Max dobrota jedinke: 270
-Prosjecna dobrota jedinki: 232.3
-Ukupna dobrota jedinki: 4646
-
-
-Generacija: 29
-X:  302	Dobrota: 154
-X:  320	Dobrota: 190
-X:  324	Dobrota: 198
-X:  328	Dobrota: 206
-X:  332	Dobrota: 214
-X:  333	Dobrota: 216
-X:  876	Dobrota: 223
-X:  383	Dobrota: 228
-X:  874	Dobrota: 229
-X:  866	Dobrota: 234
-X:  868	Dobrota: 237
-X:  378	Dobrota: 237
-X:  349	Dobrota: 248
-X:  352	Dobrota: 254
-X:  353	Dobrota: 256
-X:  366	Dobrota: 259
-X:  364	Dobrota: 262
-X:  358	Dobrota: 266
-X:  361	Dobrota: 268
-X:  360	Dobrota: 270
-
-Max dobrota jedinke: 270
-Prosjecna dobrota jedinki: 232.45
-Ukupna dobrota jedinki: 4649
-
-
-Generacija: 30
-X:  510	Dobrota:   0
-X:  838	Dobrota: 192
-X:  324	Dobrota: 198
-X:  325	Dobrota: 200
-X:  326	Dobrota: 202
+X:   98	Dobrota: 120
+X:  323	Dobrota: 196
 X:  328	Dobrota: 206
 X:  332	Dobrota: 214
 X:  334	Dobrota: 218
-X:  864	Dobrota: 231
+X:  381	Dobrota: 232
+X:  380	Dobrota: 234
+X:  343	Dobrota: 236
+X:  344	Dobrota: 238
+X:  375	Dobrota: 243
+X:  372	Dobrota: 248
+X:  370	Dobrota: 252
+X:  368	Dobrota: 255
+X:  367	Dobrota: 257
+X:  365	Dobrota: 261
+X:  361	Dobrota: 268
+X:  360	Dobrota: 270
+
+Max dobrota jedinke: 270
+Prosjecna dobrota jedinki: 209.15
+Ukupna dobrota jedinki: 4183
+
+
+Generacija: 14
+X:   76	Dobrota: 106
+X:  120	Dobrota: 120
+X:  323	Dobrota: 196
+X:  324	Dobrota: 198
+X:  328	Dobrota: 206
+X:  329	Dobrota: 208
+X:  332	Dobrota: 214
+X:  334	Dobrota: 218
+X:  382	Dobrota: 230
+X:  381	Dobrota: 232
+X:  872	Dobrota: 234
 X:  378	Dobrota: 237
-X:  870	Dobrota: 239
-X:  374	Dobrota: 244
-X:  349	Dobrota: 248
-X:  353	Dobrota: 256
+X:  345	Dobrota: 240
+X:  346	Dobrota: 242
+X:  375	Dobrota: 243
+X:  371	Dobrota: 250
+X:  351	Dobrota: 252
+X:  368	Dobrota: 255
+X:  364	Dobrota: 262
+X:  360	Dobrota: 270
+
+Max dobrota jedinke: 270
+Prosjecna dobrota jedinki: 220.65
+Ukupna dobrota jedinki: 4413
+
+
+Generacija: 15
+X:   71	Dobrota: 101
+X:  321	Dobrota: 192
+X:  323	Dobrota: 196
+X:  325	Dobrota: 200
+X:  328	Dobrota: 206
+X:  329	Dobrota: 208
+X:  330	Dobrota: 210
+X:  333	Dobrota: 216
+X:  336	Dobrota: 222
+X:  340	Dobrota: 230
+X:  379	Dobrota: 235
+X:  378	Dobrota: 237
+X:  344	Dobrota: 238
+X:  377	Dobrota: 239
+X:  376	Dobrota: 241
+X:  346	Dobrota: 242
+X:  375	Dobrota: 243
+X:  369	Dobrota: 253
+X:  364	Dobrota: 262
+X:  360	Dobrota: 270
+
+Max dobrota jedinke: 270
+Prosjecna dobrota jedinki: 222.05
+Ukupna dobrota jedinki: 4441
+
+
+Generacija: 16
+X:  320	Dobrota: 190
+X:  321	Dobrota: 192
+X:  329	Dobrota: 208
+X:  856	Dobrota: 219
+X:  336	Dobrota: 222
+X:  340	Dobrota: 230
+X:  382	Dobrota: 230
+X:  381	Dobrota: 232
+X:  378	Dobrota: 237
+X:  344	Dobrota: 238
+X:  377	Dobrota: 239
+X:  376	Dobrota: 241
+X:  346	Dobrota: 242
+X:  375	Dobrota: 243
+X:  368	Dobrota: 255
+X:  366	Dobrota: 259
+X:  355	Dobrota: 260
+X:  362	Dobrota: 266
+X:  361	Dobrota: 268
+X:  360	Dobrota: 270
+
+Max dobrota jedinke: 270
+Prosjecna dobrota jedinki: 237.05
+Ukupna dobrota jedinki: 4741
+
+
+Generacija: 17
+X:  483	Dobrota:  48
+X:  320	Dobrota: 190
+X:  328	Dobrota: 206
+X:  848	Dobrota: 207
+X:  336	Dobrota: 222
+X:  860	Dobrota: 225
+X:  382	Dobrota: 230
+X:  344	Dobrota: 238
+X:  345	Dobrota: 240
+X:  376	Dobrota: 241
+X:  346	Dobrota: 242
+X:  347	Dobrota: 244
+X:  371	Dobrota: 250
+X:  368	Dobrota: 255
+X:  354	Dobrota: 258
 X:  366	Dobrota: 259
 X:  365	Dobrota: 261
-X:  362	Dobrota: 266
+X:  356	Dobrota: 262
+X:  363	Dobrota: 264
+X:  360	Dobrota: 270
+
+Max dobrota jedinke: 270
+Prosjecna dobrota jedinki: 230.6
+Ukupna dobrota jedinki: 4612
+
+
+Generacija: 18
+X:  488	Dobrota:  39
+X:  832	Dobrota: 183
+X:  320	Dobrota: 190
+X:  322	Dobrota: 194
+X:  328	Dobrota: 206
+X:  332	Dobrota: 214
+X:  876	Dobrota: 223
+X:  860	Dobrota: 225
+X:  338	Dobrota: 226
+X:  380	Dobrota: 234
+X:  379	Dobrota: 235
+X:  378	Dobrota: 237
+X:  344	Dobrota: 238
+X:  377	Dobrota: 239
+X:  345	Dobrota: 240
+X:  346	Dobrota: 242
+X:  368	Dobrota: 255
+X:  367	Dobrota: 257
+X:  355	Dobrota: 260
+X:  360	Dobrota: 270
+
+Max dobrota jedinke: 270
+Prosjecna dobrota jedinki: 220.35
+Ukupna dobrota jedinki: 4407
+
+
+Generacija: 19
+X:  278	Dobrota: 150
+X:  832	Dobrota: 183
+X:  324	Dobrota: 198
+X:  848	Dobrota: 207
+X:  852	Dobrota: 213
+X:  878	Dobrota: 218
+X:  860	Dobrota: 225
+X:  338	Dobrota: 226
+X:  380	Dobrota: 234
+X:  378	Dobrota: 237
+X:  344	Dobrota: 238
+X:  345	Dobrota: 240
+X:  376	Dobrota: 241
+X:  346	Dobrota: 242
+X:  347	Dobrota: 244
+X:  371	Dobrota: 250
+X:  369	Dobrota: 253
+X:  366	Dobrota: 259
+X:  355	Dobrota: 260
+X:  360	Dobrota: 270
+
+Max dobrota jedinke: 270
+Prosjecna dobrota jedinki: 229.4
+Ukupna dobrota jedinki: 4588
+
+
+Generacija: 20
+X:  474	Dobrota:  64
+X:  256	Dobrota: 125
+X:  283	Dobrota: 150
+X:  892	Dobrota: 181
+X:  848	Dobrota: 207
+X:  332	Dobrota: 214
+X:  854	Dobrota: 216
+X:  336	Dobrota: 222
+X:  860	Dobrota: 225
+X:  380	Dobrota: 234
+X:  379	Dobrota: 235
+X:  344	Dobrota: 238
+X:  376	Dobrota: 241
+X:  346	Dobrota: 242
+X:  375	Dobrota: 243
+X:  351	Dobrota: 252
+X:  369	Dobrota: 253
+X:  354	Dobrota: 258
+X:  366	Dobrota: 259
+X:  360	Dobrota: 270
+
+Max dobrota jedinke: 270
+Prosjecna dobrota jedinki: 216.45
+Ukupna dobrota jedinki: 4329
+
+
+Generacija: 21
+X: 1020	Dobrota:   0
+X:  283	Dobrota: 150
+X:  892	Dobrota: 181
+X:  320	Dobrota: 190
+X:  838	Dobrota: 192
+X:  322	Dobrota: 194
+X:  334	Dobrota: 218
+X:  856	Dobrota: 219
+X:  860	Dobrota: 225
+X:  380	Dobrota: 234
+X:  378	Dobrota: 237
+X:  345	Dobrota: 240
+X:  347	Dobrota: 244
+X:  374	Dobrota: 244
+X:  372	Dobrota: 248
+X:  350	Dobrota: 250
+X:  351	Dobrota: 252
+X:  369	Dobrota: 253
+X:  356	Dobrota: 262
+X:  360	Dobrota: 270
+
+Max dobrota jedinke: 270
+Prosjecna dobrota jedinki: 215.15
+Ukupna dobrota jedinki: 4303
+
+
+Generacija: 22
+X:  892	Dobrota: 181
+X:  832	Dobrota: 183
+X:  330	Dobrota: 210
+X:  852	Dobrota: 213
+X:  860	Dobrota: 225
+X:  862	Dobrota: 228
+X:  382	Dobrota: 230
+X:  380	Dobrota: 234
+X:  378	Dobrota: 237
+X:  344	Dobrota: 238
+X:  347	Dobrota: 244
+X:  374	Dobrota: 244
+X:  373	Dobrota: 246
+X:  372	Dobrota: 248
+X:  349	Dobrota: 248
+X:  351	Dobrota: 252
+X:  356	Dobrota: 262
 X:  358	Dobrota: 266
 X:  361	Dobrota: 268
 X:  360	Dobrota: 270
 
 Max dobrota jedinke: 270
-Prosjecna dobrota jedinki: 223.75
-Ukupna dobrota jedinki: 4475
+Prosjecna dobrota jedinki: 236.35
+Ukupna dobrota jedinki: 4727
+
+
+Generacija: 23
+X:  264	Dobrota: 139
+X:  322	Dobrota: 194
+X:  326	Dobrota: 202
+X:  884	Dobrota: 202
+X:  852	Dobrota: 213
+X:  336	Dobrota: 222
+X:  860	Dobrota: 225
+X:  863	Dobrota: 229
+X:  340	Dobrota: 230
+X:  873	Dobrota: 231
+X:  380	Dobrota: 234
+X:  346	Dobrota: 242
+X:  374	Dobrota: 244
+X:  347	Dobrota: 244
+X:  373	Dobrota: 246
+X:  372	Dobrota: 248
+X:  350	Dobrota: 250
+X:  369	Dobrota: 253
+X:  361	Dobrota: 268
+X:  360	Dobrota: 270
+
+Max dobrota jedinke: 270
+Prosjecna dobrota jedinki: 229.3
+Ukupna dobrota jedinki: 4586
+
+
+Generacija: 24
+X:  478	Dobrota:  57
+X:  268	Dobrota: 146
+X:  324	Dobrota: 198
+X:  884	Dobrota: 202
+X:  326	Dobrota: 202
+X:  851	Dobrota: 211
+X:  336	Dobrota: 222
+X:  381	Dobrota: 232
+X:  377	Dobrota: 239
+X:  376	Dobrota: 241
+X:  346	Dobrota: 242
+X:  347	Dobrota: 244
+X:  348	Dobrota: 246
+X:  372	Dobrota: 248
+X:  371	Dobrota: 250
+X:  351	Dobrota: 252
+X:  355	Dobrota: 260
+X:  365	Dobrota: 261
+X:  363	Dobrota: 264
+X:  360	Dobrota: 270
+
+Max dobrota jedinke: 270
+Prosjecna dobrota jedinki: 224.35
+Ukupna dobrota jedinki: 4487
+
+
+Generacija: 25
+X:  474	Dobrota:  64
+X:  268	Dobrota: 146
+X:  325	Dobrota: 200
+X:  333	Dobrota: 216
+X:  334	Dobrota: 218
+X:  339	Dobrota: 228
+X:  340	Dobrota: 230
+X:  380	Dobrota: 234
+X:  377	Dobrota: 239
+X:  345	Dobrota: 240
+X:  376	Dobrota: 241
+X:  348	Dobrota: 246
+X:  371	Dobrota: 250
+X:  351	Dobrota: 252
+X:  368	Dobrota: 255
+X:  365	Dobrota: 261
+X:  364	Dobrota: 262
+X:  356	Dobrota: 262
+X:  361	Dobrota: 268
+X:  360	Dobrota: 270
+
+Max dobrota jedinke: 270
+Prosjecna dobrota jedinki: 229.1
+Ukupna dobrota jedinki: 4582
+
+
+Generacija: 26
+X:  484	Dobrota:  46
+X:  329	Dobrota: 208
+X:  332	Dobrota: 214
+X:  333	Dobrota: 216
+X:  337	Dobrota: 224
+X:  383	Dobrota: 228
+X:  339	Dobrota: 228
+X:  340	Dobrota: 230
+X:  381	Dobrota: 232
+X:  341	Dobrota: 232
+X:  344	Dobrota: 238
+X:  377	Dobrota: 239
+X:  376	Dobrota: 241
+X:  373	Dobrota: 246
+X:  348	Dobrota: 246
+X:  371	Dobrota: 250
+X:  367	Dobrota: 257
+X:  365	Dobrota: 261
+X:  356	Dobrota: 262
+X:  360	Dobrota: 270
+
+Max dobrota jedinke: 270
+Prosjecna dobrota jedinki: 228.4
+Ukupna dobrota jedinki: 4568
+
+
+Generacija: 27
+X:  325	Dobrota: 200
+X:  329	Dobrota: 208
+X:  333	Dobrota: 216
+X:  336	Dobrota: 222
+X:  337	Dobrota: 224
+X:  339	Dobrota: 228
+X:  340	Dobrota: 230
+X:  341	Dobrota: 232
+X:  344	Dobrota: 238
+X:  345	Dobrota: 240
+X:  348	Dobrota: 246
+X:  371	Dobrota: 250
+X:  350	Dobrota: 250
+X:  370	Dobrota: 252
+X:  369	Dobrota: 253
+X:  354	Dobrota: 258
+X:  364	Dobrota: 262
+X:  357	Dobrota: 264
+X:  361	Dobrota: 268
+X:  360	Dobrota: 270
+
+Max dobrota jedinke: 270
+Prosjecna dobrota jedinki: 240.55
+Ukupna dobrota jedinki: 4811
+
+
+Generacija: 28
+X:   87	Dobrota: 117
+X:  327	Dobrota: 204
+X:  328	Dobrota: 206
+X:  329	Dobrota: 208
+X:  853	Dobrota: 214
+X:  337	Dobrota: 224
+X:  383	Dobrota: 228
+X:  340	Dobrota: 230
+X:  341	Dobrota: 232
+X:  342	Dobrota: 234
+X:  380	Dobrota: 234
+X:  345	Dobrota: 240
+X:  376	Dobrota: 241
+X:  373	Dobrota: 246
+X:  371	Dobrota: 250
+X:  369	Dobrota: 253
+X:  363	Dobrota: 264
+X:  358	Dobrota: 266
+X:  361	Dobrota: 268
+X:  360	Dobrota: 270
+
+Max dobrota jedinke: 270
+Prosjecna dobrota jedinki: 231.45
+Ukupna dobrota jedinki: 4629
+
+
+Generacija: 29
+X:  487	Dobrota:  41
+X:  893	Dobrota: 178
+X:  836	Dobrota: 189
+X:  325	Dobrota: 200
+X:  327	Dobrota: 204
+X:  328	Dobrota: 206
+X:  339	Dobrota: 228
+X:  380	Dobrota: 234
+X:  379	Dobrota: 235
+X:  343	Dobrota: 236
+X:  377	Dobrota: 239
+X:  345	Dobrota: 240
+X:  376	Dobrota: 241
+X:  374	Dobrota: 244
+X:  352	Dobrota: 254
+X:  353	Dobrota: 256
+X:  364	Dobrota: 262
+X:  363	Dobrota: 264
+X:  357	Dobrota: 264
+X:  360	Dobrota: 270
+
+Max dobrota jedinke: 270
+Prosjecna dobrota jedinki: 224.25
+Ukupna dobrota jedinki: 4485
+
+
+Generacija: 30
+X:   69	Dobrota:  99
+X:  836	Dobrota: 189
+X:  838	Dobrota: 192
+X:  321	Dobrota: 192
+X:  323	Dobrota: 196
+X:  325	Dobrota: 200
+X:  329	Dobrota: 208
+X:  380	Dobrota: 234
+X:  343	Dobrota: 236
+X:  378	Dobrota: 237
+X:  344	Dobrota: 238
+X:  376	Dobrota: 241
+X:  352	Dobrota: 254
+X:  368	Dobrota: 255
+X:  353	Dobrota: 256
+X:  366	Dobrota: 259
+X:  357	Dobrota: 264
+X:  362	Dobrota: 266
+X:  361	Dobrota: 268
+X:  360	Dobrota: 270
+
+Max dobrota jedinke: 270
+Prosjecna dobrota jedinki: 227.7
+Ukupna dobrota jedinki: 4554
 
 
