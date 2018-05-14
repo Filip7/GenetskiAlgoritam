@@ -79,6 +79,13 @@ int main()
     dat.close();
     datProsjek.close();
 
+    #if defined(WIN32) || defined(_WIN32) || defined(__WIN32) && !defined(__CYGWIN__)
+        cout << endl << endl << "KRAJ PROGRAMA" << endl << "Unesi bilosto za kraj:";
+        char a;
+        cin >> a;
+    #endif
+
+
     isprazniJedinke(jedinke);
 
     return 0;
@@ -111,7 +118,7 @@ vector<GA::Jedinka*> selektirajJedinke(vector<GA::Jedinka*>& jedinke, GA::Jedink
     }
 
     auto broj_jedinki_u_poolu = static_cast<int>(pool.size());
-    uniform_int_distribution<int> odabranik(0, broj_jedinki_u_poolu);
+    uniform_int_distribution<int> odabranik(0, broj_jedinki_u_poolu-1);
     // Izrada novih jedniki dok god populacija ne dostigne zadanu velicinu
     while (nova_populacija.size()!=VELICINA_POPULACIJE) {
         bool kontrola = true;
