@@ -12,7 +12,6 @@ constexpr int BROJ_ITERACIJA = 30;
 constexpr int VELICINA_POPULACIJE = 20;
 constexpr double VJEROJATNOST_KRIZANJA = 0.9;
 
-bool usporedbaDobroteJedinki(GA::Jedinka *x, GA::Jedinka *y);
 void ispis(vector<GA::Jedinka*> &jedinke, double ukupnaDobrotaJedinki, double prosjecnaDobrotaJedinki, GA::Jedinka *max);
 void zapisUDatoteku(fstream &dat, vector<GA::Jedinka*> &jedinke, double ukupnaDobrotaJedinki, double prosjecnaDobrotaJedinki, GA::Jedinka *max);
 vector<GA::Jedinka*> selektirajJedinke(vector<GA::Jedinka*> &jedinke, GA::Jedinka *max);
@@ -23,12 +22,14 @@ int main() {
     string PUTANJA = "../genetskiAlgoritamRezultat.txt";
     vector<GA::Jedinka*> jedinke;
 
+    auto usporedi = [] (GA::Jedinka *x, GA::Jedinka *y) { return x->getDobrota_jedinke() < y->getDobrota_jedinke();  };
+
     /*Izrada prve populacije, sve jednike su nasumicno generirane*/
     for(int i = 0; i < VELICINA_POPULACIJE; ++i){
         jedinke.push_back(new GA::Jedinka);
     }
 
-    sort(jedinke.begin(), jedinke.end(), usporedbaDobroteJedinki);
+    sort(jedinke.begin(), jedinke.end(), usporedi);
 
     fstream dat{PUTANJA, ios_base::out};
     if(!dat){
@@ -61,14 +62,14 @@ int main() {
 
         datProsjek << prosjecnaDobrotaJedinki << endl;
 
-        auto max = *std::max_element(begin(jedinke), end(jedinke), usporedbaDobroteJedinki);
+        auto max = *std::max_element(begin(jedinke), end(jedinke), usporedi);
         max->setElitna(true);
 
         ispis(jedinke, ukupnaDobrotaJedinki, prosjecnaDobrotaJedinki, max);
         zapisUDatoteku(dat, jedinke, ukupnaDobrotaJedinki, prosjecnaDobrotaJedinki, max);
 
         jedinke = selektirajJedinke(jedinke, max);
-        sort(jedinke.begin(), jedinke.end(), usporedbaDobroteJedinki);
+        sort(jedinke.begin(), jedinke.end(), usporedi);
     }
 
     dat.close();
@@ -137,16 +138,6 @@ void isprazniJedinke(vector<GA::Jedinka *> &jedinke) {
         delete jedinke[iter];
         jedinke.pop_back();
     }
-}
-
-/**
- * Usporeduje dobrote jedinki, koristi se za pronalazk max jedinke
- * @param x prva jedinka za usporedbu
- * @param y druga jedinka za usporedbu
- * @return veca jedinka izmedu x i y
- */
-bool usporedbaDobroteJedinki(GA::Jedinka *x, GA::Jedinka *y) {
-    return x->getDobrota_jedinke() < y->getDobrota_jedinke();
 }
 
 /**
