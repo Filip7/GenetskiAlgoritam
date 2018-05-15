@@ -2,8 +2,8 @@
 #include <fstream>
 #include <algorithm>
 #include <vector>
-#include <random>
 #include "Jedinka.h"
+#include "Pomocni.h"
 
 using namespace std;
 
@@ -28,11 +28,11 @@ int main()
     string PUTANJA = "../genetskiAlgoritamRezultat.txt";
     vector<GA::Jedinka*> jedinke;
 
-    auto usporedi = [](GA::Jedinka* x, GA::Jedinka* y) { return x->getDobrota_jedinke()<y->getDobrota_jedinke(); };
+    auto usporedi = [](GA::Jedinka* x, GA::Jedinka* y) { return x->getDobrota_jedinke() < y->getDobrota_jedinke(); };
 
     /*Izrada prve populacije, sve jednike su nasumicno generirane*/
     for (int i = 0; i<VELICINA_POPULACIJE; ++i) {
-        jedinke.push_back(new GA::Jedinka);
+        jedinke.push_back(new GA::Jedinka{});
     }
 
     sort(jedinke.begin(), jedinke.end(), usporedi);
@@ -80,11 +80,10 @@ int main()
     datProsjek.close();
 
     #if defined(WIN32) || defined(_WIN32) || defined(__WIN32) && !defined(__CYGWIN__)
-        cout << endl << endl << "KRAJ PROGRAMA" << endl << "Unesi bilosto za kraj:";
+        cout << endl << endl << "KRAJ PROGRAMA" << endl << "Unesi bilo sto za kraj:";
         char a;
         cin >> a;
     #endif
-
 
     isprazniJedinke(jedinke);
 
@@ -99,39 +98,35 @@ int main()
  */
 vector<GA::Jedinka*> selektirajJedinke(vector<GA::Jedinka*>& jedinke, GA::Jedinka* max)
 {
-    random_device rd;
-    mt19937 mt(rd());
-    uniform_real_distribution<double> vjerojatnost_krizanja(0, 1);
-
     vector<unsigned int> pool;
     vector<GA::Jedinka*> nova_populacija;
     nova_populacija.push_back(max);
+    max->mutiraj();
 
     // Izrada "poola" jedinki gdje se biraju nasumicni za razmnozavanje
     for (unsigned int i = 0; i<VELICINA_POPULACIJE; ++i) {
         int n = jedinke[i]->getNormalizirana_dobrota_jedinke();
-        //Dajemo malu sansu i jedinkama sa najgorom dobrotom (0)
-        if (n==0) n++;
-        for (int j = 0; j<n; ++j) {
+        for (int j = 0; j < n; ++j) {
             pool.push_back(i);
         }
     }
 
     auto broj_jedinki_u_poolu = static_cast<int>(pool.size());
-    uniform_int_distribution<int> odabranik(0, broj_jedinki_u_poolu-1);
+
     // Izrada novih jedniki dok god populacija ne dostigne zadanu velicinu
-    while (nova_populacija.size()!=VELICINA_POPULACIJE) {
+    while (nova_populacija.size() !=VELICINA_POPULACIJE) {
         bool kontrola = true;
-        int rod1 = odabranik(mt);
-        int rod2 = odabranik(mt);
+        //int rod1 = odabranik(mt);
+        auto rod1 = GA::Rand<int>(0, broj_jedinki_u_poolu-1);
+        auto rod2 = GA::Rand<int>(0, broj_jedinki_u_poolu-1);
         while (rod1==rod2) {
             // Ako su odabrana dva ista roditelja trazi drugog dok nije razlicit
-            rod2 = odabranik(mt);
+            rod2 = GA::Rand<int>(0, broj_jedinki_u_poolu-1);
         }
 
         // Racunamo vjerojatnost krizanja te ako je zadovoljeno krizamo jedinke
-        if (vjerojatnost_krizanja(mt)<VJEROJATNOST_KRIZANJA) {
-            auto* dijete = new GA::Jedinka(*jedinke.at(pool[rod1]), *jedinke.at(pool[rod2]));
+        if (GA::Rand<double>(0, 1) < VJEROJATNOST_KRIZANJA) {
+            auto* dijete = new GA::Jedinka{*jedinke.at(pool[rod1]), *jedinke.at(pool[rod2])};
             // Nakon izrade dijete se mutira
             dijete->mutiraj();
             for (auto& rod : nova_populacija) {
@@ -174,8 +169,7 @@ void isprazniJedinke(vector<GA::Jedinka*>& jedinke)
 void ispis(vector<GA::Jedinka*>& jedinke, double ukupnaDobrotaJedinki, double prosjecnaDobrotaJedinki, GA::Jedinka* max)
 {
     for (auto& jedinka : jedinke) {
-        jedinka->ispisi(true);
-        //cout << *jedinka << endl;
+        cout << *jedinka << endl;
     }
 
     cout << endl << "Max dobrota jedinke: " << max->getDobrota_jedinke() << endl;
@@ -196,13 +190,7 @@ zapisUDatoteku(fstream& dat, vector<GA::Jedinka*>& jedinke, double ukupnaDobrota
         GA::Jedinka* max)
 {
     for (auto& jedinka : jedinke) {
-        dat << "X: ";
-        dat.width(4);
-        dat << jedinka->getX_dec();
-        dat << "\tDobrota: ";
-        dat.width(3);
-        dat << jedinka->getDobrota_jedinke();
-        dat << endl;
+        dat << *jedinka << endl;
     }
 
     dat << endl << "Max dobrota jedinke: " << max->getDobrota_jedinke() << endl;

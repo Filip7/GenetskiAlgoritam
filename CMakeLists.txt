@@ -3,4 +3,4 @@ project(GenetskiAlgoritam)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(GenetskiAlgoritam main.cpp dobrota.h Jedinka.cpp Jedinka.h)
+add_executable(GenetskiAlgoritam main.cpp dobrota.h Jedinka.cpp Jedinka.h Pomocni.h)

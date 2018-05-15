@@ -15,16 +15,15 @@ namespace GA {
     class Jedinka {
         friend std::ostream& operator<<(std::ostream& os, const Jedinka& jed);
 
-        friend bool operator==(const Jedinka& lijevi, const Jedinka& desni);
+        friend bool operator==(const Jedinka& lijeva, const Jedinka& desna);
 
-        friend bool operator!=(const Jedinka& lijevi, const Jedinka& desni);
+        friend bool operator!=(const Jedinka& lijeva, const Jedinka& desna);
 
     private:
         std::vector<int> x;
         int dobrota_jedinke;
         int normalizirana_dobrota_jedinke;
         int x_dec;
-        double vjerojatnostP;
 
     public:
         /**
@@ -48,18 +47,10 @@ namespace GA {
 
         void setNormalizirana_dobrota_jedinke(int normalizirana_dobrota_jedinke);
 
-        int getX_dec() const;
-
         /**
          * Odraduje mutiranje, koristi se u konstruktoru za izradu nove jedinke preko roditelja
          */
         void mutiraj();
-
-        /**
-         * Ispis parametara jedinke
-         * @param ispisi_bin true ako se ispisuje binarni zapis X-a, odnosno false ako se ne ispisuje
-         */
-        void ispisi(bool ispisi_bin = false);
     };
 
 }
