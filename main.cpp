@@ -101,7 +101,6 @@ vector<GA::Jedinka*> selektirajJedinke(vector<GA::Jedinka*>& jedinke, GA::Jedink
     vector<unsigned int> pool;
     vector<GA::Jedinka*> nova_populacija;
     nova_populacija.push_back(max);
-    max->mutiraj();
 
     // Izrada "poola" jedinki gdje se biraju nasumicni za razmnozavanje
     for (unsigned int i = 0; i<VELICINA_POPULACIJE; ++i) {

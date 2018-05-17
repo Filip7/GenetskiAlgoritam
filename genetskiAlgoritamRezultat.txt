@@ -1,644 +1,482 @@
 Generacija: 1
-X:  982	Binarno: 1111010110 Dobrota:   0
-X:  526	Binarno: 1000001110 Dobrota:  24
-X:  214	Binarno: 0011010110 Dobrota:  52
-X:  197	Binarno: 0011000101 Dobrota:  55
-X:   31	Binarno: 0000011111 Dobrota:  61
-X:  154	Binarno: 0010011010 Dobrota:  91
-X:  919	Binarno: 1110010111 Dobrota: 109
-X:  115	Binarno: 0001110011 Dobrota: 120
-X:  268	Binarno: 0100001100 Dobrota: 146
-X:  654	Binarno: 1010001110 Dobrota: 148
-X:  298	Binarno: 0100101010 Dobrota: 150
-X:  293	Binarno: 0100100101 Dobrota: 150
-X:  641	Binarno: 1010000001 Dobrota: 165
-X:  416	Binarno: 0110100000 Dobrota: 169
-X:  627	Binarno: 1001110011 Dobrota: 175
-X:  627	Binarno: 1001110011 Dobrota: 175
-X:  412	Binarno: 0110011100 Dobrota: 176
-X:  893	Binarno: 1101111101 Dobrota: 178
+X: 1005	Binarno: 1111101101 Dobrota:   0
+X:  959	Binarno: 1110111111 Dobrota:   2
+X:  512	Binarno: 1000000000 Dobrota:   3
+X:  955	Binarno: 1110111011 Dobrota:  13
+X:  499	Binarno: 0111110011 Dobrota:  19
+X:  718	Binarno: 1011001110 Dobrota:  62
+X:  460	Binarno: 0111001100 Dobrota:  90
+X:  777	Binarno: 1100001001 Dobrota: 100
+X:  142	Binarno: 0010001110 Dobrota: 101
+X:  106	Binarno: 0001101010 Dobrota: 120
+X:  109	Binarno: 0001101101 Dobrota: 120
+X:  114	Binarno: 0001110010 Dobrota: 120
+X:  433	Binarno: 0110110001 Dobrota: 138
+X:  430	Binarno: 0110101110 Dobrota: 144
+X:  618	Binarno: 1001101010 Dobrota: 162
+X:  309	Binarno: 0100110101 Dobrota: 168
+X:  624	Binarno: 1001110000 Dobrota: 171
+X:  830	Binarno: 1100111110 Dobrota: 180
+X:  317	Binarno: 0100111101 Dobrota: 184
 X:  837	Binarno: 1101000101 Dobrota: 190
-X:  345	Binarno: 0101011001 Dobrota: 240
 
-Max dobrota jedinke: 240
-Prosjecna dobrota jedinki: 128.7
-Ukupna dobrota jedinki: 2574
+Max dobrota jedinke: 190
+Prosjecna dobrota jedinki: 104.35
+Ukupna dobrota jedinki: 2087
 
 
 Generacija: 2
-X:  508	Binarno: 0111111100 Dobrota:   3
-X:  197	Binarno: 0011000101 Dobrota:  55
-X:   31	Binarno: 0000011111 Dobrota:  61
-X:  156	Binarno: 0010011100 Dobrota:  90
-X:  925	Binarno: 1110011101 Dobrota:  93
-X:  440	Binarno: 0110111000 Dobrota: 126
-X:  260	Binarno: 0100000100 Dobrota: 132
-X:  665	Binarno: 1010011001 Dobrota: 133
-X:  657	Binarno: 1010010001 Dobrota: 144
-X:  292	Binarno: 0100100100 Dobrota: 150
-X:  281	Binarno: 0100011001 Dobrota: 150
-X:  426	Binarno: 0110101010 Dobrota: 151
-X:  301	Binarno: 0100101101 Dobrota: 152
-X:  413	Binarno: 0110011101 Dobrota: 174
-X:  627	Binarno: 1001110011 Dobrota: 175
-X:  412	Binarno: 0110011100 Dobrota: 176
+X:  953	Binarno: 1110111001 Dobrota:  18
+X:  942	Binarno: 1110101110 Dobrota:  47
+X:  940	Binarno: 1110101100 Dobrota:  53
+X:  752	Binarno: 1011110000 Dobrota:  63
+X:  570	Binarno: 1000111010 Dobrota:  90
+X:  151	Binarno: 0010010111 Dobrota:  94
+X:  924	Binarno: 1110011100 Dobrota:  95
+X:  239	Binarno: 0011101111 Dobrota:  95
+X:  574	Binarno: 1000111110 Dobrota:  96
+X:  143	Binarno: 0010001111 Dobrota: 100
+X:  104	Binarno: 0001101000 Dobrota: 120
+X:  296	Binarno: 0100101000 Dobrota: 150
+X:  415	Binarno: 0110011111 Dobrota: 171
+X:  828	Binarno: 1100111100 Dobrota: 177
+X:  837	Binarno: 1101000101 Dobrota: 190
+X:  876	Binarno: 1101101100 Dobrota: 223
+X:  341	Binarno: 0101010101 Dobrota: 232
+X:  378	Binarno: 0101111010 Dobrota: 237
 X:  869	Binarno: 1101100101 Dobrota: 238
-X:  349	Binarno: 0101011101 Dobrota: 248
-X:  353	Binarno: 0101100001 Dobrota: 256
-X:  360	Binarno: 0101101000 Dobrota: 270
+X:  368	Binarno: 0101110000 Dobrota: 255
 
-Max dobrota jedinke: 270
-Prosjecna dobrota jedinki: 148.85
-Ukupna dobrota jedinki: 2977
+Max dobrota jedinke: 255
+Prosjecna dobrota jedinki: 137.2
+Ukupna dobrota jedinki: 2744
 
 
 Generacija: 3
-X:  965	Binarno: 1111000101 Dobrota:   0
-X:  497	Binarno: 0111110001 Dobrota:  23
-X:  177	Binarno: 0010110001 Dobrota:  72
-X:  560	Binarno: 1000110000 Dobrota:  75
-X:   59	Binarno: 0000111011 Dobrota:  89
-X:  156	Binarno: 0010011100 Dobrota:  90
-X:  442	Binarno: 0110111010 Dobrota: 122
-X:  440	Binarno: 0110111000 Dobrota: 126
-X:  300	Binarno: 0100101100 Dobrota: 150
-X:  292	Binarno: 0100100100 Dobrota: 150
-X:  301	Binarno: 0100101101 Dobrota: 152
-X:  321	Binarno: 0101000001 Dobrota: 192
-X:  396	Binarno: 0110001100 Dobrota: 205
-X:  344	Binarno: 0101011000 Dobrota: 238
-X:  345	Binarno: 0101011001 Dobrota: 240
-X:  349	Binarno: 0101011101 Dobrota: 248
-X:  357	Binarno: 0101100101 Dobrota: 264
-X:  363	Binarno: 0101101011 Dobrota: 264
-X:  361	Binarno: 0101101001 Dobrota: 268
+X:  959	Binarno: 1110111111 Dobrota:   2
+X:   13	Binarno: 0000001101 Dobrota:  60
+X:  181	Binarno: 0010110101 Dobrota:  69
+X:   71	Binarno: 0001000111 Dobrota: 101
+X:  447	Binarno: 0110111111 Dobrota: 113
+X:  127	Binarno: 0001111111 Dobrota: 114
+X:  272	Binarno: 0100010000 Dobrota: 150
+X:  279	Binarno: 0100010111 Dobrota: 150
+X:  304	Binarno: 0100110000 Dobrota: 158
+X:  312	Binarno: 0100111000 Dobrota: 174
+X:  413	Binarno: 0110011101 Dobrota: 174
+X:  836	Binarno: 1101000100 Dobrota: 189
+X:  341	Binarno: 0101010101 Dobrota: 232
+X:  380	Binarno: 0101111100 Dobrota: 234
+X:  872	Binarno: 1101101000 Dobrota: 234
+X:  376	Binarno: 0101111000 Dobrota: 241
+X:  351	Binarno: 0101011111 Dobrota: 252
+X:  368	Binarno: 0101110000 Dobrota: 255
+X:  364	Binarno: 0101101100 Dobrota: 262
 X:  360	Binarno: 0101101000 Dobrota: 270
 
 Max dobrota jedinke: 270
-Prosjecna dobrota jedinki: 161.9
-Ukupna dobrota jedinki: 3238
+Prosjecna dobrota jedinki: 171.7
+Ukupna dobrota jedinki: 3434
 
 
 Generacija: 4
-X:  506	Binarno: 0111111010 Dobrota:   7
-X:  168	Binarno: 0010101000 Dobrota:  80
-X:   61	Binarno: 0000111101 Dobrota:  91
-X:   75	Binarno: 0001001011 Dobrota: 105
-X:   97	Binarno: 0001100001 Dobrota: 120
-X:  440	Binarno: 0110111000 Dobrota: 126
-X:  429	Binarno: 0110101101 Dobrota: 145
-X:  268	Binarno: 0100001100 Dobrota: 146
-X:  428	Binarno: 0110101100 Dobrota: 147
-X:  299	Binarno: 0100101011 Dobrota: 150
-X:  281	Binarno: 0100011001 Dobrota: 150
-X:  300	Binarno: 0100101100 Dobrota: 150
-X:  280	Binarno: 0100011000 Dobrota: 150
-X:  321	Binarno: 0101000001 Dobrota: 192
-X:  328	Binarno: 0101001000 Dobrota: 206
-X:  330	Binarno: 0101001010 Dobrota: 210
+X:   16	Binarno: 0000010000 Dobrota:  60
+X:   48	Binarno: 0000110000 Dobrota:  78
+X:  126	Binarno: 0001111110 Dobrota: 115
+X:  445	Binarno: 0110111101 Dobrota: 117
+X:  792	Binarno: 1100011000 Dobrota: 123
+X:  296	Binarno: 0100101000 Dobrota: 150
+X:  279	Binarno: 0100010111 Dobrota: 150
+X:  304	Binarno: 0100110000 Dobrota: 158
+X:  893	Binarno: 1101111101 Dobrota: 178
+X:  840	Binarno: 1101001000 Dobrota: 195
+X:  852	Binarno: 1101010100 Dobrota: 213
+X:  876	Binarno: 1101101100 Dobrota: 223
+X:  337	Binarno: 0101010001 Dobrota: 224
+X:  343	Binarno: 0101010111 Dobrota: 236
+X:  344	Binarno: 0101011000 Dobrota: 238
 X:  377	Binarno: 0101111001 Dobrota: 239
 X:  345	Binarno: 0101011001 Dobrota: 240
-X:  364	Binarno: 0101101100 Dobrota: 262
+X:  368	Binarno: 0101110000 Dobrota: 255
+X:  357	Binarno: 0101100101 Dobrota: 264
 X:  360	Binarno: 0101101000 Dobrota: 270
 
 Max dobrota jedinke: 270
-Prosjecna dobrota jedinki: 159.3
-Ukupna dobrota jedinki: 3186
+Prosjecna dobrota jedinki: 186.3
+Ukupna dobrota jedinki: 3726
 
 
 Generacija: 5
-X:  492	Binarno: 0111101100 Dobrota:  32
-X:  488	Binarno: 0111101000 Dobrota:  39
-X:   25	Binarno: 0000011001 Dobrota:  60
-X:   45	Binarno: 0000101101 Dobrota:  75
-X:  104	Binarno: 0001101000 Dobrota: 120
-X:  265	Binarno: 0100001001 Dobrota: 141
-X:  268	Binarno: 0100001100 Dobrota: 146
-X:  428	Binarno: 0110101100 Dobrota: 147
-X:  299	Binarno: 0100101011 Dobrota: 150
-X:  312	Binarno: 0100111000 Dobrota: 174
-X:  313	Binarno: 0100111001 Dobrota: 176
-X:  320	Binarno: 0101000000 Dobrota: 190
-X:  321	Binarno: 0101000001 Dobrota: 192
+X:   29	Binarno: 0000011101 Dobrota:  60
+X:  784	Binarno: 1100010000 Dobrota: 111
+X:  792	Binarno: 1100011000 Dobrota: 123
+X:  296	Binarno: 0100101000 Dobrota: 150
+X:  307	Binarno: 0100110011 Dobrota: 164
+X:  844	Binarno: 1101001100 Dobrota: 201
+X:  328	Binarno: 0101001000 Dobrota: 206
 X:  329	Binarno: 0101001001 Dobrota: 208
-X:  380	Binarno: 0101111100 Dobrota: 234
-X:  345	Binarno: 0101011001 Dobrota: 240
-X:  353	Binarno: 0101100001 Dobrota: 256
-X:  362	Binarno: 0101101010 Dobrota: 266
-X:  361	Binarno: 0101101001 Dobrota: 268
+X:  880	Binarno: 1101110000 Dobrota: 213
+X:  852	Binarno: 1101010100 Dobrota: 213
+X:  877	Binarno: 1101101101 Dobrota: 221
+X:  336	Binarno: 0101010000 Dobrota: 222
+X:  337	Binarno: 0101010001 Dobrota: 224
+X:  862	Binarno: 1101011110 Dobrota: 228
+X:  344	Binarno: 0101011000 Dobrota: 238
+X:  377	Binarno: 0101111001 Dobrota: 239
+X:  376	Binarno: 0101111000 Dobrota: 241
+X:  369	Binarno: 0101110001 Dobrota: 253
+X:  368	Binarno: 0101110000 Dobrota: 255
 X:  360	Binarno: 0101101000 Dobrota: 270
 
 Max dobrota jedinke: 270
-Prosjecna dobrota jedinki: 169.2
-Ukupna dobrota jedinki: 3384
+Prosjecna dobrota jedinki: 202
+Ukupna dobrota jedinki: 4040
 
 
 Generacija: 6
-X:  489	Binarno: 0111101001 Dobrota:  37
-X:   64	Binarno: 0001000000 Dobrota:  94
-X:  108	Binarno: 0001101100 Dobrota: 120
-X:  261	Binarno: 0100000101 Dobrota: 134
-X:  262	Binarno: 0100000110 Dobrota: 136
-X:  265	Binarno: 0100001001 Dobrota: 141
-X:  428	Binarno: 0110101100 Dobrota: 147
-X:  281	Binarno: 0100011001 Dobrota: 150
-X:  296	Binarno: 0100101000 Dobrota: 150
-X:  297	Binarno: 0100101001 Dobrota: 150
-X:  425	Binarno: 0110101001 Dobrota: 153
-X:  827	Binarno: 1100111011 Dobrota: 175
-X:  317	Binarno: 0100111101 Dobrota: 184
-X:  320	Binarno: 0101000000 Dobrota: 190
-X:  329	Binarno: 0101001001 Dobrota: 208
-X:  330	Binarno: 0101001010 Dobrota: 210
+X:  600	Binarno: 1001011000 Dobrota: 135
+X:  306	Binarno: 0100110010 Dobrota: 162
+X:  307	Binarno: 0100110011 Dobrota: 164
+X:  893	Binarno: 1101111101 Dobrota: 178
+X:  892	Binarno: 1101111100 Dobrota: 181
+X:  832	Binarno: 1101000000 Dobrota: 183
+X:  836	Binarno: 1101000100 Dobrota: 189
+X:  880	Binarno: 1101110000 Dobrota: 213
+X:  854	Binarno: 1101010110 Dobrota: 216
+X:  856	Binarno: 1101011000 Dobrota: 219
+X:  858	Binarno: 1101011010 Dobrota: 222
+X:  336	Binarno: 0101010000 Dobrota: 222
+X:  337	Binarno: 0101010001 Dobrota: 224
+X:  860	Binarno: 1101011100 Dobrota: 225
+X:  344	Binarno: 0101011000 Dobrota: 238
 X:  377	Binarno: 0101111001 Dobrota: 239
-X:  372	Binarno: 0101110100 Dobrota: 248
-X:  364	Binarno: 0101101100 Dobrota: 262
-X:  361	Binarno: 0101101001 Dobrota: 268
+X:  345	Binarno: 0101011001 Dobrota: 240
+X:  376	Binarno: 0101111000 Dobrota: 241
+X:  368	Binarno: 0101110000 Dobrota: 255
+X:  360	Binarno: 0101101000 Dobrota: 270
 
-Max dobrota jedinke: 268
-Prosjecna dobrota jedinki: 169.8
-Ukupna dobrota jedinki: 3396
+Max dobrota jedinke: 270
+Prosjecna dobrota jedinki: 210.8
+Ukupna dobrota jedinki: 4216
 
 
 Generacija: 7
-X:  448	Binarno: 0111000000 Dobrota: 111
-X:  108	Binarno: 0001101100 Dobrota: 120
-X:  808	Binarno: 1100101000 Dobrota: 147
-X:  296	Binarno: 0100101000 Dobrota: 150
-X:  273	Binarno: 0100010001 Dobrota: 150
-X:  281	Binarno: 0100011001 Dobrota: 150
-X:  285	Binarno: 0100011101 Dobrota: 150
-X:  301	Binarno: 0100101101 Dobrota: 152
-X:  825	Binarno: 1100111001 Dobrota: 172
-X:  827	Binarno: 1100111011 Dobrota: 175
-X:  315	Binarno: 0100111011 Dobrota: 180
+X: 1020	Binarno: 1111111100 Dobrota:   0
+X:  972	Binarno: 1111001100 Dobrota:   0
+X:  893	Binarno: 1101111101 Dobrota: 178
+X:  892	Binarno: 1101111100 Dobrota: 181
+X:  832	Binarno: 1101000000 Dobrota: 183
 X:  320	Binarno: 0101000000 Dobrota: 190
-X:  329	Binarno: 0101001001 Dobrota: 208
-X:  335	Binarno: 0101001111 Dobrota: 220
-X:  378	Binarno: 0101111010 Dobrota: 237
-X:  345	Binarno: 0101011001 Dobrota: 240
+X:  840	Binarno: 1101001000 Dobrota: 195
+X:  884	Binarno: 1101110100 Dobrota: 202
+X:  854	Binarno: 1101010110 Dobrota: 216
+X:  856	Binarno: 1101011000 Dobrota: 219
+X:  336	Binarno: 0101010000 Dobrota: 222
+X:  337	Binarno: 0101010001 Dobrota: 224
+X:  338	Binarno: 0101010010 Dobrota: 226
+X:  872	Binarno: 1101101000 Dobrota: 234
+X:  344	Binarno: 0101011000 Dobrota: 238
+X:  377	Binarno: 0101111001 Dobrota: 239
 X:  376	Binarno: 0101111000 Dobrota: 241
-X:  364	Binarno: 0101101100 Dobrota: 262
-X:  356	Binarno: 0101100100 Dobrota: 262
-X:  361	Binarno: 0101101001 Dobrota: 268
+X:  375	Binarno: 0101110111 Dobrota: 243
+X:  368	Binarno: 0101110000 Dobrota: 255
+X:  360	Binarno: 0101101000 Dobrota: 270
 
-Max dobrota jedinke: 268
-Prosjecna dobrota jedinki: 189.25
-Ukupna dobrota jedinki: 3785
+Max dobrota jedinke: 270
+Prosjecna dobrota jedinki: 197.8
+Ukupna dobrota jedinki: 3956
 
 
 Generacija: 8
-X:  770	Binarno: 1100000010 Dobrota:  90
-X:  121	Binarno: 0001111001 Dobrota: 119
-X:  257	Binarno: 0100000001 Dobrota: 127
-X:  288	Binarno: 0100100000 Dobrota: 150
-X:  300	Binarno: 0100101100 Dobrota: 150
-X:  297	Binarno: 0100101001 Dobrota: 150
-X:  314	Binarno: 0100111010 Dobrota: 178
+X:   88	Binarno: 0001011000 Dobrota: 118
+X:  892	Binarno: 1101111100 Dobrota: 181
 X:  320	Binarno: 0101000000 Dobrota: 190
-X:  328	Binarno: 0101001000 Dobrota: 206
-X:  329	Binarno: 0101001001 Dobrota: 208
-X:  333	Binarno: 0101001101 Dobrota: 216
-X:  335	Binarno: 0101001111 Dobrota: 220
-X:  380	Binarno: 0101111100 Dobrota: 234
+X:  888	Binarno: 1101111000 Dobrota: 191
+X:  321	Binarno: 0101000001 Dobrota: 192
+X:  887	Binarno: 1101110111 Dobrota: 194
+X:  882	Binarno: 1101110010 Dobrota: 207
+X:  848	Binarno: 1101010000 Dobrota: 207
+X:  880	Binarno: 1101110000 Dobrota: 213
+X:  858	Binarno: 1101011010 Dobrota: 222
+X:  336	Binarno: 0101010000 Dobrota: 222
+X:  341	Binarno: 0101010101 Dobrota: 232
+X:  872	Binarno: 1101101000 Dobrota: 234
+X:  342	Binarno: 0101010110 Dobrota: 234
 X:  377	Binarno: 0101111001 Dobrota: 239
 X:  376	Binarno: 0101111000 Dobrota: 241
-X:  349	Binarno: 0101011101 Dobrota: 248
-X:  365	Binarno: 0101101101 Dobrota: 261
-X:  356	Binarno: 0101100100 Dobrota: 262
+X:  374	Binarno: 0101110110 Dobrota: 244
+X:  368	Binarno: 0101110000 Dobrota: 255
 X:  361	Binarno: 0101101001 Dobrota: 268
 X:  360	Binarno: 0101101000 Dobrota: 270
 
 Max dobrota jedinke: 270
-Prosjecna dobrota jedinki: 201.35
-Ukupna dobrota jedinki: 4027
+Prosjecna dobrota jedinki: 217.7
+Ukupna dobrota jedinki: 4354
 
 
 Generacija: 9
-X:  768	Binarno: 1100000000 Dobrota:  87
-X:  769	Binarno: 1100000001 Dobrota:  88
-X:  298	Binarno: 0100101010 Dobrota: 150
-X:  299	Binarno: 0100101011 Dobrota: 150
-X:  281	Binarno: 0100011001 Dobrota: 150
-X:  271	Binarno: 0100001111 Dobrota: 150
-X:  297	Binarno: 0100101001 Dobrota: 150
-X:  301	Binarno: 0100101101 Dobrota: 152
-X:  312	Binarno: 0100111000 Dobrota: 174
-X:  328	Binarno: 0101001000 Dobrota: 206
+X:  314	Binarno: 0100111010 Dobrota: 178
+X:  892	Binarno: 1101111100 Dobrota: 181
+X:  890	Binarno: 1101111010 Dobrota: 186
+X:  888	Binarno: 1101111000 Dobrota: 191
+X:  882	Binarno: 1101110010 Dobrota: 207
 X:  329	Binarno: 0101001001 Dobrota: 208
-X:  331	Binarno: 0101001011 Dobrota: 212
-X:  380	Binarno: 0101111100 Dobrota: 234
-X:  377	Binarno: 0101111001 Dobrota: 239
+X:  330	Binarno: 0101001010 Dobrota: 210
+X:  336	Binarno: 0101010000 Dobrota: 222
+X:  858	Binarno: 1101011010 Dobrota: 222
+X:  876	Binarno: 1101101100 Dobrota: 223
+X:  382	Binarno: 0101111110 Dobrota: 230
+X:  341	Binarno: 0101010101 Dobrota: 232
+X:  872	Binarno: 1101101000 Dobrota: 234
+X:  342	Binarno: 0101010110 Dobrota: 234
 X:  376	Binarno: 0101111000 Dobrota: 241
-X:  349	Binarno: 0101011101 Dobrota: 248
-X:  365	Binarno: 0101101101 Dobrota: 261
-X:  356	Binarno: 0101100100 Dobrota: 262
-X:  361	Binarno: 0101101001 Dobrota: 268
+X:  374	Binarno: 0101110110 Dobrota: 244
+X:  372	Binarno: 0101110100 Dobrota: 248
+X:  352	Binarno: 0101100000 Dobrota: 254
+X:  368	Binarno: 0101110000 Dobrota: 255
 X:  360	Binarno: 0101101000 Dobrota: 270
 
 Max dobrota jedinke: 270
-Prosjecna dobrota jedinki: 195
-Ukupna dobrota jedinki: 3900
+Prosjecna dobrota jedinki: 223.5
+Ukupna dobrota jedinki: 4470
 
 
 Generacija: 10
-X:  776	Binarno: 1100001000 Dobrota:  99
-X:  267	Binarno: 0100001011 Dobrota: 144
-X:  269	Binarno: 0100001101 Dobrota: 148
-X:  301	Binarno: 0100101101 Dobrota: 152
-X:  313	Binarno: 0100111001 Dobrota: 176
-X:  332	Binarno: 0101001100 Dobrota: 214
-X:  384	Binarno: 0110000000 Dobrota: 226
-X:  381	Binarno: 0101111101 Dobrota: 232
+X:  276	Binarno: 0100010100 Dobrota: 150
+X:  892	Binarno: 1101111100 Dobrota: 181
+X:  888	Binarno: 1101111000 Dobrota: 191
+X:  885	Binarno: 1101110101 Dobrota: 199
+X:  884	Binarno: 1101110100 Dobrota: 202
+X:  882	Binarno: 1101110010 Dobrota: 207
+X:  330	Binarno: 0101001010 Dobrota: 210
+X:  858	Binarno: 1101011010 Dobrota: 222
+X:  382	Binarno: 0101111110 Dobrota: 230
+X:  340	Binarno: 0101010100 Dobrota: 230
+X:  380	Binarno: 0101111100 Dobrota: 234
+X:  342	Binarno: 0101010110 Dobrota: 234
 X:  344	Binarno: 0101011000 Dobrota: 238
-X:  377	Binarno: 0101111001 Dobrota: 239
-X:  345	Binarno: 0101011001 Dobrota: 240
 X:  376	Binarno: 0101111000 Dobrota: 241
 X:  346	Binarno: 0101011010 Dobrota: 242
-X:  349	Binarno: 0101011101 Dobrota: 248
-X:  367	Binarno: 0101101111 Dobrota: 257
-X:  364	Binarno: 0101101100 Dobrota: 262
-X:  356	Binarno: 0101100100 Dobrota: 262
-X:  362	Binarno: 0101101010 Dobrota: 266
+X:  372	Binarno: 0101110100 Dobrota: 248
+X:  352	Binarno: 0101100000 Dobrota: 254
+X:  368	Binarno: 0101110000 Dobrota: 255
 X:  361	Binarno: 0101101001 Dobrota: 268
 X:  360	Binarno: 0101101000 Dobrota: 270
 
 Max dobrota jedinke: 270
-Prosjecna dobrota jedinki: 221.2
-Ukupna dobrota jedinki: 4424
+Prosjecna dobrota jedinki: 225.3
+Ukupna dobrota jedinki: 4506
 
 
 Generacija: 11
-X:  496	Binarno: 0111110000 Dobrota:  25
-X:  488	Binarno: 0111101000 Dobrota:  39
-X:  777	Binarno: 1100001001 Dobrota: 100
-X:  301	Binarno: 0100101101 Dobrota: 152
-X:  425	Binarno: 0110101001 Dobrota: 153
-X:  312	Binarno: 0100111000 Dobrota: 174
-X:  893	Binarno: 1101111101 Dobrota: 178
-X:  328	Binarno: 0101001000 Dobrota: 206
-X:  329	Binarno: 0101001001 Dobrota: 208
-X:  864	Binarno: 1101100000 Dobrota: 231
+X:  502	Binarno: 0111110110 Dobrota:  14
+X:  310	Binarno: 0100110110 Dobrota: 170
+X:  630	Binarno: 1001110110 Dobrota: 180
+X:  888	Binarno: 1101111000 Dobrota: 191
+X:  840	Binarno: 1101001000 Dobrota: 195
+X:  886	Binarno: 1101110110 Dobrota: 197
+X:  326	Binarno: 0101000110 Dobrota: 202
+X:  856	Binarno: 1101011000 Dobrota: 219
+X:  336	Binarno: 0101010000 Dobrota: 222
+X:  338	Binarno: 0101010010 Dobrota: 226
+X:  862	Binarno: 1101011110 Dobrota: 228
+X:  342	Binarno: 0101010110 Dobrota: 234
+X:  380	Binarno: 0101111100 Dobrota: 234
 X:  872	Binarno: 1101101000 Dobrota: 234
-X:  379	Binarno: 0101111011 Dobrota: 235
+X:  378	Binarno: 0101111010 Dobrota: 237
 X:  344	Binarno: 0101011000 Dobrota: 238
-X:  345	Binarno: 0101011001 Dobrota: 240
 X:  376	Binarno: 0101111000 Dobrota: 241
+X:  374	Binarno: 0101110110 Dobrota: 244
 X:  372	Binarno: 0101110100 Dobrota: 248
-X:  349	Binarno: 0101011101 Dobrota: 248
-X:  364	Binarno: 0101101100 Dobrota: 262
-X:  361	Binarno: 0101101001 Dobrota: 268
-X:  359	Binarno: 0101100111 Dobrota: 268
+X:  360	Binarno: 0101101000 Dobrota: 270
 
-Max dobrota jedinke: 268
-Prosjecna dobrota jedinki: 197.4
-Ukupna dobrota jedinki: 3948
+Max dobrota jedinke: 270
+Prosjecna dobrota jedinki: 211.2
+Ukupna dobrota jedinki: 4224
 
 
 Generacija: 12
-X:  489	Binarno: 0111101001 Dobrota:  37
-X:  269	Binarno: 0100001101 Dobrota: 148
-X:  297	Binarno: 0100101001 Dobrota: 150
-X:  328	Binarno: 0101001000 Dobrota: 206
-X:  333	Binarno: 0101001101 Dobrota: 216
-X:  381	Binarno: 0101111101 Dobrota: 232
-X:  872	Binarno: 1101101000 Dobrota: 234
+X:  122	Binarno: 0001111010 Dobrota: 118
+X:  310	Binarno: 0100110110 Dobrota: 170
+X:  888	Binarno: 1101111000 Dobrota: 191
+X:  886	Binarno: 1101110110 Dobrota: 197
+X:  882	Binarno: 1101110010 Dobrota: 207
+X:  856	Binarno: 1101011000 Dobrota: 219
+X:  858	Binarno: 1101011010 Dobrota: 222
+X:  336	Binarno: 0101010000 Dobrota: 222
+X:  338	Binarno: 0101010010 Dobrota: 226
+X:  339	Binarno: 0101010011 Dobrota: 228
 X:  380	Binarno: 0101111100 Dobrota: 234
-X:  344	Binarno: 0101011000 Dobrota: 238
-X:  377	Binarno: 0101111001 Dobrota: 239
-X:  345	Binarno: 0101011001 Dobrota: 240
-X:  376	Binarno: 0101111000 Dobrota: 241
+X:  342	Binarno: 0101010110 Dobrota: 234
+X:  872	Binarno: 1101101000 Dobrota: 234
 X:  375	Binarno: 0101110111 Dobrota: 243
 X:  374	Binarno: 0101110110 Dobrota: 244
-X:  373	Binarno: 0101110101 Dobrota: 246
-X:  349	Binarno: 0101011101 Dobrota: 248
+X:  372	Binarno: 0101110100 Dobrota: 248
+X:  370	Binarno: 0101110010 Dobrota: 252
 X:  364	Binarno: 0101101100 Dobrota: 262
-X:  363	Binarno: 0101101011 Dobrota: 264
-X:  361	Binarno: 0101101001 Dobrota: 268
+X:  358	Binarno: 0101100110 Dobrota: 266
 X:  360	Binarno: 0101101000 Dobrota: 270
 
 Max dobrota jedinke: 270
-Prosjecna dobrota jedinki: 223
-Ukupna dobrota jedinki: 4460
+Prosjecna dobrota jedinki: 224.35
+Ukupna dobrota jedinki: 4487
 
 
 Generacija: 13
-X:  265	Binarno: 0100001001 Dobrota: 141
-X:  280	Binarno: 0100011000 Dobrota: 150
-X:  300	Binarno: 0100101100 Dobrota: 150
-X:  313	Binarno: 0100111001 Dobrota: 176
-X:  337	Binarno: 0101010001 Dobrota: 224
-X:  341	Binarno: 0101010101 Dobrota: 232
-X:  381	Binarno: 0101111101 Dobrota: 232
-X:  872	Binarno: 1101101000 Dobrota: 234
+X:  628	Binarno: 1001110100 Dobrota: 177
+X:  830	Binarno: 1100111110 Dobrota: 180
+X:  320	Binarno: 0101000000 Dobrota: 190
+X:  882	Binarno: 1101110010 Dobrota: 207
+X:  856	Binarno: 1101011000 Dobrota: 219
+X:  858	Binarno: 1101011010 Dobrota: 222
+X:  336	Binarno: 0101010000 Dobrota: 222
+X:  338	Binarno: 0101010010 Dobrota: 226
+X:  383	Binarno: 0101111111 Dobrota: 228
+X:  382	Binarno: 0101111110 Dobrota: 230
+X:  864	Binarno: 1101100000 Dobrota: 231
 X:  380	Binarno: 0101111100 Dobrota: 234
+X:  872	Binarno: 1101101000 Dobrota: 234
+X:  342	Binarno: 0101010110 Dobrota: 234
+X:  343	Binarno: 0101010111 Dobrota: 236
 X:  378	Binarno: 0101111010 Dobrota: 237
-X:  377	Binarno: 0101111001 Dobrota: 239
-X:  345	Binarno: 0101011001 Dobrota: 240
-X:  376	Binarno: 0101111000 Dobrota: 241
-X:  375	Binarno: 0101110111 Dobrota: 243
-X:  348	Binarno: 0101011100 Dobrota: 246
-X:  349	Binarno: 0101011101 Dobrota: 248
-X:  353	Binarno: 0101100001 Dobrota: 256
-X:  363	Binarno: 0101101011 Dobrota: 264
-X:  359	Binarno: 0101100111 Dobrota: 268
+X:  374	Binarno: 0101110110 Dobrota: 244
+X:  370	Binarno: 0101110010 Dobrota: 252
+X:  358	Binarno: 0101100110 Dobrota: 266
 X:  360	Binarno: 0101101000 Dobrota: 270
 
 Max dobrota jedinke: 270
-Prosjecna dobrota jedinki: 226.25
-Ukupna dobrota jedinki: 4525
+Prosjecna dobrota jedinki: 226.95
+Ukupna dobrota jedinki: 4539
 
 
 Generacija: 14
-X:  265	Binarno: 0100001001 Dobrota: 141
-X:  281	Binarno: 0100011001 Dobrota: 150
-X:  285	Binarno: 0100011101 Dobrota: 150
-X:  305	Binarno: 0100110001 Dobrota: 160
-X:  880	Binarno: 1101110000 Dobrota: 213
-X:  337	Binarno: 0101010001 Dobrota: 224
+X:  480	Binarno: 0111100000 Dobrota:  54
+X:  892	Binarno: 1101111100 Dobrota: 181
+X:  888	Binarno: 1101111000 Dobrota: 191
+X:  322	Binarno: 0101000010 Dobrota: 194
+X:  884	Binarno: 1101110100 Dobrota: 202
+X:  330	Binarno: 0101001010 Dobrota: 210
+X:  855	Binarno: 1101010111 Dobrota: 217
 X:  382	Binarno: 0101111110 Dobrota: 230
-X:  381	Binarno: 0101111101 Dobrota: 232
-X:  872	Binarno: 1101101000 Dobrota: 234
-X:  345	Binarno: 0101011001 Dobrota: 240
+X:  864	Binarno: 1101100000 Dobrota: 231
+X:  378	Binarno: 0101111010 Dobrota: 237
+X:  344	Binarno: 0101011000 Dobrota: 238
 X:  376	Binarno: 0101111000 Dobrota: 241
-X:  375	Binarno: 0101110111 Dobrota: 243
-X:  373	Binarno: 0101110101 Dobrota: 246
-X:  348	Binarno: 0101011100 Dobrota: 246
-X:  349	Binarno: 0101011101 Dobrota: 248
-X:  369	Binarno: 0101110001 Dobrota: 253
-X:  368	Binarno: 0101110000 Dobrota: 255
-X:  353	Binarno: 0101100001 Dobrota: 256
-X:  359	Binarno: 0101100111 Dobrota: 268
+X:  347	Binarno: 0101011011 Dobrota: 244
+X:  374	Binarno: 0101110110 Dobrota: 244
+X:  370	Binarno: 0101110010 Dobrota: 252
+X:  352	Binarno: 0101100000 Dobrota: 254
+X:  366	Binarno: 0101101110 Dobrota: 259
+X:  364	Binarno: 0101101100 Dobrota: 262
+X:  361	Binarno: 0101101001 Dobrota: 268
 X:  360	Binarno: 0101101000 Dobrota: 270
 
 Max dobrota jedinke: 270
-Prosjecna dobrota jedinki: 225
-Ukupna dobrota jedinki: 4500
+Prosjecna dobrota jedinki: 223.95
+Ukupna dobrota jedinki: 4479
 
 
 Generacija: 15
-X:  300	Binarno: 0100101100 Dobrota: 150
-X:  281	Binarno: 0100011001 Dobrota: 150
-X:  273	Binarno: 0100010001 Dobrota: 150
-X:  889	Binarno: 1101111001 Dobrota: 189
 X:  888	Binarno: 1101111000 Dobrota: 191
-X:  337	Binarno: 0101010001 Dobrota: 224
-X:  382	Binarno: 0101111110 Dobrota: 230
-X:  381	Binarno: 0101111101 Dobrota: 232
+X:  326	Binarno: 0101000110 Dobrota: 202
+X:  846	Binarno: 1101001110 Dobrota: 204
+X:  851	Binarno: 1101010011 Dobrota: 211
+X:  880	Binarno: 1101110000 Dobrota: 213
+X:  856	Binarno: 1101011000 Dobrota: 219
+X:  383	Binarno: 0101111111 Dobrota: 228
+X:  865	Binarno: 1101100001 Dobrota: 232
 X:  344	Binarno: 0101011000 Dobrota: 238
-X:  345	Binarno: 0101011001 Dobrota: 240
-X:  376	Binarno: 0101111000 Dobrota: 241
-X:  373	Binarno: 0101110101 Dobrota: 246
+X:  870	Binarno: 1101100110 Dobrota: 239
+X:  374	Binarno: 0101110110 Dobrota: 244
 X:  372	Binarno: 0101110100 Dobrota: 248
-X:  370	Binarno: 0101110010 Dobrota: 252
-X:  369	Binarno: 0101110001 Dobrota: 253
 X:  352	Binarno: 0101100000 Dobrota: 254
 X:  368	Binarno: 0101110000 Dobrota: 255
-X:  353	Binarno: 0101100001 Dobrota: 256
-X:  361	Binarno: 0101101001 Dobrota: 268
+X:  354	Binarno: 0101100010 Dobrota: 258
+X:  355	Binarno: 0101100011 Dobrota: 260
+X:  364	Binarno: 0101101100 Dobrota: 262
+X:  358	Binarno: 0101100110 Dobrota: 266
+X:  362	Binarno: 0101101010 Dobrota: 266
 X:  360	Binarno: 0101101000 Dobrota: 270
 
 Max dobrota jedinke: 270
-Prosjecna dobrota jedinki: 226.85
-Ukupna dobrota jedinki: 4537
+Prosjecna dobrota jedinki: 238
+Ukupna dobrota jedinki: 4760
 
 
 Generacija: 16
-X:  289	Binarno: 0100100001 Dobrota: 150
-X:  313	Binarno: 0100111001 Dobrota: 176
-X:  889	Binarno: 1101111001 Dobrota: 189
 X:  320	Binarno: 0101000000 Dobrota: 190
-X:  337	Binarno: 0101010001 Dobrota: 224
-X:  382	Binarno: 0101111110 Dobrota: 230
-X:  381	Binarno: 0101111101 Dobrota: 232
-X:  341	Binarno: 0101010101 Dobrota: 232
-X:  380	Binarno: 0101111100 Dobrota: 234
-X:  378	Binarno: 0101111010 Dobrota: 237
-X:  377	Binarno: 0101111001 Dobrota: 239
-X:  376	Binarno: 0101111000 Dobrota: 241
-X:  373	Binarno: 0101110101 Dobrota: 246
-X:  372	Binarno: 0101110100 Dobrota: 248
-X:  349	Binarno: 0101011101 Dobrota: 248
-X:  369	Binarno: 0101110001 Dobrota: 253
-X:  352	Binarno: 0101100000 Dobrota: 254
+X:  888	Binarno: 1101111000 Dobrota: 191
+X:  842	Binarno: 1101001010 Dobrota: 198
+X:  883	Binarno: 1101110011 Dobrota: 205
+X:  330	Binarno: 0101001010 Dobrota: 210
+X:  332	Binarno: 0101001100 Dobrota: 214
+X:  334	Binarno: 0101001110 Dobrota: 218
+X:  856	Binarno: 1101011000 Dobrota: 219
+X:  383	Binarno: 0101111111 Dobrota: 228
+X:  870	Binarno: 1101100110 Dobrota: 239
+X:  345	Binarno: 0101011001 Dobrota: 240
+X:  375	Binarno: 0101110111 Dobrota: 243
+X:  374	Binarno: 0101110110 Dobrota: 244
 X:  368	Binarno: 0101110000 Dobrota: 255
-X:  353	Binarno: 0101100001 Dobrota: 256
+X:  367	Binarno: 0101101111 Dobrota: 257
+X:  354	Binarno: 0101100010 Dobrota: 258
+X:  355	Binarno: 0101100011 Dobrota: 260
+X:  364	Binarno: 0101101100 Dobrota: 262
+X:  358	Binarno: 0101100110 Dobrota: 266
 X:  360	Binarno: 0101101000 Dobrota: 270
 
 Max dobrota jedinke: 270
-Prosjecna dobrota jedinki: 230.2
-Ukupna dobrota jedinki: 4604
+Prosjecna dobrota jedinki: 233.35
+Ukupna dobrota jedinki: 4667
 
 
 Generacija: 17
-X:   97	Binarno: 0001100001 Dobrota: 120
-X:  305	Binarno: 0100110001 Dobrota: 160
+X:  266	Binarno: 0100001010 Dobrota: 143
 X:  888	Binarno: 1101111000 Dobrota: 191
-X:  328	Binarno: 0101001000 Dobrota: 206
-X:  329	Binarno: 0101001001 Dobrota: 208
-X:  340	Binarno: 0101010100 Dobrota: 230
-X:  873	Binarno: 1101101001 Dobrota: 231
+X:  840	Binarno: 1101001000 Dobrota: 195
+X:  330	Binarno: 0101001010 Dobrota: 210
+X:  331	Binarno: 0101001011 Dobrota: 212
+X:  878	Binarno: 1101101110 Dobrota: 218
+X:  856	Binarno: 1101011000 Dobrota: 219
+X:  876	Binarno: 1101101100 Dobrota: 223
+X:  874	Binarno: 1101101010 Dobrota: 229
 X:  341	Binarno: 0101010101 Dobrota: 232
-X:  381	Binarno: 0101111101 Dobrota: 232
-X:  377	Binarno: 0101111001 Dobrota: 239
-X:  376	Binarno: 0101111000 Dobrota: 241
-X:  373	Binarno: 0101110101 Dobrota: 246
-X:  372	Binarno: 0101110100 Dobrota: 248
-X:  349	Binarno: 0101011101 Dobrota: 248
-X:  369	Binarno: 0101110001 Dobrota: 253
-X:  352	Binarno: 0101100000 Dobrota: 254
-X:  368	Binarno: 0101110000 Dobrota: 255
-X:  353	Binarno: 0101100001 Dobrota: 256
-X:  361	Binarno: 0101101001 Dobrota: 268
-X:  360	Binarno: 0101101000 Dobrota: 270
-
-Max dobrota jedinke: 270
-Prosjecna dobrota jedinki: 229.4
-Ukupna dobrota jedinki: 4588
-
-
-Generacija: 18
-X:  305	Binarno: 0100110001 Dobrota: 160
-X:  893	Binarno: 1101111101 Dobrota: 178
-X:  320	Binarno: 0101000000 Dobrota: 190
-X:  329	Binarno: 0101001001 Dobrota: 208
-X:  880	Binarno: 1101110000 Dobrota: 213
-X:  336	Binarno: 0101010000 Dobrota: 222
-X:  864	Binarno: 1101100000 Dobrota: 231
-X:  873	Binarno: 1101101001 Dobrota: 231
-X:  380	Binarno: 0101111100 Dobrota: 234
-X:  345	Binarno: 0101011001 Dobrota: 240
-X:  348	Binarno: 0101011100 Dobrota: 246
-X:  373	Binarno: 0101110101 Dobrota: 246
-X:  372	Binarno: 0101110100 Dobrota: 248
-X:  349	Binarno: 0101011101 Dobrota: 248
-X:  369	Binarno: 0101110001 Dobrota: 253
-X:  352	Binarno: 0101100000 Dobrota: 254
-X:  368	Binarno: 0101110000 Dobrota: 255
-X:  353	Binarno: 0101100001 Dobrota: 256
-X:  361	Binarno: 0101101001 Dobrota: 268
-X:  360	Binarno: 0101101000 Dobrota: 270
-
-Max dobrota jedinke: 270
-Prosjecna dobrota jedinki: 232.55
-Ukupna dobrota jedinki: 4651
-
-
-Generacija: 19
-X:  841	Binarno: 1101001001 Dobrota: 196
-X:  329	Binarno: 0101001001 Dobrota: 208
-X:  881	Binarno: 1101110001 Dobrota: 210
-X:  857	Binarno: 1101011001 Dobrota: 220
-X:  340	Binarno: 0101010100 Dobrota: 230
-X:  873	Binarno: 1101101001 Dobrota: 231
-X:  864	Binarno: 1101100000 Dobrota: 231
-X:  341	Binarno: 0101010101 Dobrota: 232
-X:  865	Binarno: 1101100001 Dobrota: 232
 X:  872	Binarno: 1101101000 Dobrota: 234
-X:  345	Binarno: 0101011001 Dobrota: 240
-X:  373	Binarno: 0101110101 Dobrota: 246
-X:  348	Binarno: 0101011100 Dobrota: 246
-X:  349	Binarno: 0101011101 Dobrota: 248
-X:  372	Binarno: 0101110100 Dobrota: 248
-X:  369	Binarno: 0101110001 Dobrota: 253
-X:  352	Binarno: 0101100000 Dobrota: 254
-X:  368	Binarno: 0101110000 Dobrota: 255
-X:  357	Binarno: 0101100101 Dobrota: 264
-X:  361	Binarno: 0101101001 Dobrota: 268
-
-Max dobrota jedinke: 268
-Prosjecna dobrota jedinki: 237.3
-Ukupna dobrota jedinki: 4746
-
-
-Generacija: 20
-X:  833	Binarno: 1101000001 Dobrota: 184
-X:  841	Binarno: 1101001001 Dobrota: 196
-X:  325	Binarno: 0101000101 Dobrota: 200
-X:  329	Binarno: 0101001001 Dobrota: 208
-X:  332	Binarno: 0101001100 Dobrota: 214
-X:  857	Binarno: 1101011001 Dobrota: 220
-X:  860	Binarno: 1101011100 Dobrota: 225
-X:  864	Binarno: 1101100000 Dobrota: 231
 X:  344	Binarno: 0101011000 Dobrota: 238
 X:  377	Binarno: 0101111001 Dobrota: 239
 X:  345	Binarno: 0101011001 Dobrota: 240
-X:  349	Binarno: 0101011101 Dobrota: 248
-X:  372	Binarno: 0101110100 Dobrota: 248
-X:  369	Binarno: 0101110001 Dobrota: 253
-X:  352	Binarno: 0101100000 Dobrota: 254
-X:  368	Binarno: 0101110000 Dobrota: 255
-X:  353	Binarno: 0101100001 Dobrota: 256
-X:  357	Binarno: 0101100101 Dobrota: 264
-X:  361	Binarno: 0101101001 Dobrota: 268
+X:  351	Binarno: 0101011111 Dobrota: 252
+X:  354	Binarno: 0101100010 Dobrota: 258
+X:  355	Binarno: 0101100011 Dobrota: 260
+X:  364	Binarno: 0101101100 Dobrota: 262
+X:  358	Binarno: 0101100110 Dobrota: 266
 X:  360	Binarno: 0101101000 Dobrota: 270
 
 Max dobrota jedinke: 270
-Prosjecna dobrota jedinki: 235.55
-Ukupna dobrota jedinki: 4711
+Prosjecna dobrota jedinki: 229.55
+Ukupna dobrota jedinki: 4591
 
 
-Generacija: 21
-X:  313	Binarno: 0100111001 Dobrota: 176
-X:  832	Binarno: 1101000000 Dobrota: 183
-X:  320	Binarno: 0101000000 Dobrota: 190
-X:  841	Binarno: 1101001001 Dobrota: 196
-X:  332	Binarno: 0101001100 Dobrota: 214
-X:  857	Binarno: 1101011001 Dobrota: 220
-X:  859	Binarno: 1101011011 Dobrota: 223
-X:  340	Binarno: 0101010100 Dobrota: 230
-X:  873	Binarno: 1101101001 Dobrota: 231
-X:  381	Binarno: 0101111101 Dobrota: 232
-X:  377	Binarno: 0101111001 Dobrota: 239
-X:  345	Binarno: 0101011001 Dobrota: 240
-X:  373	Binarno: 0101110101 Dobrota: 246
-X:  349	Binarno: 0101011101 Dobrota: 248
-X:  369	Binarno: 0101110001 Dobrota: 253
-X:  352	Binarno: 0101100000 Dobrota: 254
-X:  368	Binarno: 0101110000 Dobrota: 255
-X:  353	Binarno: 0101100001 Dobrota: 256
-X:  357	Binarno: 0101100101 Dobrota: 264
-X:  361	Binarno: 0101101001 Dobrota: 268
-
-Max dobrota jedinke: 268
-Prosjecna dobrota jedinki: 230.9
-Ukupna dobrota jedinki: 4618
-
-
-Generacija: 22
-X:  113	Binarno: 0001110001 Dobrota: 120
-X:   93	Binarno: 0001011101 Dobrota: 120
-X:  313	Binarno: 0100111001 Dobrota: 176
-X:  889	Binarno: 1101111001 Dobrota: 189
-X:  322	Binarno: 0101000010 Dobrota: 194
+Generacija: 18
+X:  483	Binarno: 0111100011 Dobrota:  48
+X:  298	Binarno: 0100101010 Dobrota: 150
+X:  840	Binarno: 1101001000 Dobrota: 195
+X:  842	Binarno: 1101001010 Dobrota: 198
+X:  847	Binarno: 1101001111 Dobrota: 205
 X:  328	Binarno: 0101001000 Dobrota: 206
-X:  857	Binarno: 1101011001 Dobrota: 220
-X:  340	Binarno: 0101010100 Dobrota: 230
-X:  381	Binarno: 0101111101 Dobrota: 232
-X:  872	Binarno: 1101101000 Dobrota: 234
-X:  345	Binarno: 0101011001 Dobrota: 240
-X:  372	Binarno: 0101110100 Dobrota: 248
-X:  351	Binarno: 0101011111 Dobrota: 252
-X:  369	Binarno: 0101110001 Dobrota: 253
-X:  352	Binarno: 0101100000 Dobrota: 254
-X:  368	Binarno: 0101110000 Dobrota: 255
-X:  353	Binarno: 0101100001 Dobrota: 256
-X:  356	Binarno: 0101100100 Dobrota: 262
-X:  357	Binarno: 0101100101 Dobrota: 264
-X:  361	Binarno: 0101101001 Dobrota: 268
-
-Max dobrota jedinke: 268
-Prosjecna dobrota jedinki: 223.65
-Ukupna dobrota jedinki: 4473
-
-
-Generacija: 23
-X:  585	Binarno: 1001001001 Dobrota: 112
-X:  281	Binarno: 0100011001 Dobrota: 150
-X:  304	Binarno: 0100110000 Dobrota: 158
-X:  320	Binarno: 0101000000 Dobrota: 190
-X:  841	Binarno: 1101001001 Dobrota: 196
+X:  848	Binarno: 1101010000 Dobrota: 207
 X:  849	Binarno: 1101010001 Dobrota: 208
-X:  329	Binarno: 0101001001 Dobrota: 208
-X:  881	Binarno: 1101110001 Dobrota: 210
-X:  335	Binarno: 0101001111 Dobrota: 220
 X:  857	Binarno: 1101011001 Dobrota: 220
-X:  876	Binarno: 1101101100 Dobrota: 223
-X:  860	Binarno: 1101011100 Dobrota: 225
-X:  873	Binarno: 1101101001 Dobrota: 231
 X:  341	Binarno: 0101010101 Dobrota: 232
-X:  377	Binarno: 0101111001 Dobrota: 239
-X:  369	Binarno: 0101110001 Dobrota: 253
-X:  352	Binarno: 0101100000 Dobrota: 254
-X:  356	Binarno: 0101100100 Dobrota: 262
-X:  357	Binarno: 0101100101 Dobrota: 264
-X:  361	Binarno: 0101101001 Dobrota: 268
-
-Max dobrota jedinke: 268
-Prosjecna dobrota jedinki: 216.15
-Ukupna dobrota jedinki: 4323
-
-
-Generacija: 24
-X:   73	Binarno: 0001001001 Dobrota: 103
-X:  609	Binarno: 1001100001 Dobrota: 148
-X:  304	Binarno: 0100110000 Dobrota: 158
-X:  323	Binarno: 0101000011 Dobrota: 196
-X:  324	Binarno: 0101000100 Dobrota: 198
-X:  332	Binarno: 0101001100 Dobrota: 214
-X:  856	Binarno: 1101011000 Dobrota: 219
-X:  857	Binarno: 1101011001 Dobrota: 220
-X:  335	Binarno: 0101001111 Dobrota: 220
-X:  336	Binarno: 0101010000 Dobrota: 222
-X:  861	Binarno: 1101011101 Dobrota: 226
-X:  341	Binarno: 0101010101 Dobrota: 232
-X:  377	Binarno: 0101111001 Dobrota: 239
-X:  372	Binarno: 0101110100 Dobrota: 248
-X:  352	Binarno: 0101100000 Dobrota: 254
-X:  368	Binarno: 0101110000 Dobrota: 255
-X:  367	Binarno: 0101101111 Dobrota: 257
-X:  356	Binarno: 0101100100 Dobrota: 262
-X:  361	Binarno: 0101101001 Dobrota: 268
+X:  866	Binarno: 1101100010 Dobrota: 234
+X:  344	Binarno: 0101011000 Dobrota: 238
+X:  345	Binarno: 0101011001 Dobrota: 240
+X:  349	Binarno: 0101011101 Dobrota: 248
+X:  354	Binarno: 0101100010 Dobrota: 258
+X:  355	Binarno: 0101100011 Dobrota: 260
+X:  364	Binarno: 0101101100 Dobrota: 262
+X:  363	Binarno: 0101101011 Dobrota: 264
+X:  362	Binarno: 0101101010 Dobrota: 266
 X:  360	Binarno: 0101101000 Dobrota: 270
 
 Max dobrota jedinke: 270
@@ -646,165 +484,327 @@ Prosjecna dobrota jedinki: 220.45
 Ukupna dobrota jedinki: 4409
 
 
-Generacija: 25
-X:  457	Binarno: 0111001001 Dobrota:  95
-X:   73	Binarno: 0001001001 Dobrota: 103
-X:  257	Binarno: 0100000001 Dobrota: 127
-X:  277	Binarno: 0100010101 Dobrota: 150
-X:  322	Binarno: 0101000010 Dobrota: 194
-X:  324	Binarno: 0101000100 Dobrota: 198
-X:  327	Binarno: 0101000111 Dobrota: 204
+Generacija: 19
+X:  594	Binarno: 1001010010 Dobrota: 126
+X:  262	Binarno: 0100000110 Dobrota: 136
+X:  889	Binarno: 1101111001 Dobrota: 189
+X:  320	Binarno: 0101000000 Dobrota: 190
+X:  848	Binarno: 1101010000 Dobrota: 207
 X:  329	Binarno: 0101001001 Dobrota: 208
-X:  331	Binarno: 0101001011 Dobrota: 212
-X:  856	Binarno: 1101011000 Dobrota: 219
+X:  330	Binarno: 0101001010 Dobrota: 210
 X:  335	Binarno: 0101001111 Dobrota: 220
-X:  341	Binarno: 0101010101 Dobrota: 232
-X:  380	Binarno: 0101111100 Dobrota: 234
+X:  859	Binarno: 1101011011 Dobrota: 223
+X:  867	Binarno: 1101100011 Dobrota: 235
+X:  344	Binarno: 0101011000 Dobrota: 238
 X:  345	Binarno: 0101011001 Dobrota: 240
-X:  351	Binarno: 0101011111 Dobrota: 252
-X:  368	Binarno: 0101110000 Dobrota: 255
+X:  347	Binarno: 0101011011 Dobrota: 244
+X:  349	Binarno: 0101011101 Dobrota: 248
+X:  369	Binarno: 0101110001 Dobrota: 253
+X:  354	Binarno: 0101100010 Dobrota: 258
 X:  355	Binarno: 0101100011 Dobrota: 260
 X:  356	Binarno: 0101100100 Dobrota: 262
+X:  362	Binarno: 0101101010 Dobrota: 266
+X:  360	Binarno: 0101101000 Dobrota: 270
+
+Max dobrota jedinke: 270
+Prosjecna dobrota jedinki: 224.15
+Ukupna dobrota jedinki: 4483
+
+
+Generacija: 20
+X:  262	Binarno: 0100000110 Dobrota: 136
+X:  889	Binarno: 1101111001 Dobrota: 189
+X:  320	Binarno: 0101000000 Dobrota: 190
+X:  326	Binarno: 0101000110 Dobrota: 202
+X:  881	Binarno: 1101110001 Dobrota: 210
+X:  851	Binarno: 1101010011 Dobrota: 211
+X:  331	Binarno: 0101001011 Dobrota: 212
+X:  334	Binarno: 0101001110 Dobrota: 218
+X:  858	Binarno: 1101011010 Dobrota: 222
+X:  875	Binarno: 1101101011 Dobrota: 226
+X:  872	Binarno: 1101101000 Dobrota: 234
+X:  344	Binarno: 0101011000 Dobrota: 238
+X:  349	Binarno: 0101011101 Dobrota: 248
+X:  350	Binarno: 0101011110 Dobrota: 250
+X:  370	Binarno: 0101110010 Dobrota: 252
+X:  354	Binarno: 0101100010 Dobrota: 258
+X:  355	Binarno: 0101100011 Dobrota: 260
+X:  364	Binarno: 0101101100 Dobrota: 262
 X:  361	Binarno: 0101101001 Dobrota: 268
 X:  360	Binarno: 0101101000 Dobrota: 270
 
 Max dobrota jedinke: 270
-Prosjecna dobrota jedinki: 210.15
-Ukupna dobrota jedinki: 4203
+Prosjecna dobrota jedinki: 227.8
+Ukupna dobrota jedinki: 4556
 
 
-Generacija: 26
-X:  496	Binarno: 0111110000 Dobrota:  25
-X:    1	Binarno: 0000000001 Dobrota:  60
-X:  449	Binarno: 0111000001 Dobrota: 109
-X:  126	Binarno: 0001111110 Dobrota: 115
-X:  104	Binarno: 0001101000 Dobrota: 120
-X:  105	Binarno: 0001101001 Dobrota: 120
-X:  265	Binarno: 0100001001 Dobrota: 141
-X:  269	Binarno: 0100001101 Dobrota: 148
-X:  840	Binarno: 1101001000 Dobrota: 195
-X:  329	Binarno: 0101001001 Dobrota: 208
-X:  331	Binarno: 0101001011 Dobrota: 212
+Generacija: 21
+X:  256	Binarno: 0100000000 Dobrota: 125
+X:  270	Binarno: 0100001110 Dobrota: 150
+X:  890	Binarno: 1101111010 Dobrota: 186
+X:  835	Binarno: 1101000011 Dobrota: 187
+X:  889	Binarno: 1101111001 Dobrota: 189
+X:  328	Binarno: 0101001000 Dobrota: 206
+X:  881	Binarno: 1101110001 Dobrota: 210
 X:  335	Binarno: 0101001111 Dobrota: 220
-X:  341	Binarno: 0101010101 Dobrota: 232
-X:  376	Binarno: 0101111000 Dobrota: 241
-X:  369	Binarno: 0101110001 Dobrota: 253
-X:  352	Binarno: 0101100000 Dobrota: 254
-X:  367	Binarno: 0101101111 Dobrota: 257
-X:  364	Binarno: 0101101100 Dobrota: 262
-X:  358	Binarno: 0101100110 Dobrota: 266
+X:  338	Binarno: 0101010010 Dobrota: 226
+X:  866	Binarno: 1101100010 Dobrota: 234
+X:  872	Binarno: 1101101000 Dobrota: 234
+X:  344	Binarno: 0101011000 Dobrota: 238
+X:  348	Binarno: 0101011100 Dobrota: 246
+X:  350	Binarno: 0101011110 Dobrota: 250
+X:  370	Binarno: 0101110010 Dobrota: 252
+X:  353	Binarno: 0101100001 Dobrota: 256
+X:  366	Binarno: 0101101110 Dobrota: 259
+X:  355	Binarno: 0101100011 Dobrota: 260
+X:  359	Binarno: 0101100111 Dobrota: 268
 X:  360	Binarno: 0101101000 Dobrota: 270
 
 Max dobrota jedinke: 270
-Prosjecna dobrota jedinki: 185.4
-Ukupna dobrota jedinki: 3708
+Prosjecna dobrota jedinki: 223.3
+Ukupna dobrota jedinki: 4466
+
+
+Generacija: 22
+X:  299	Binarno: 0100101011 Dobrota: 150
+X:  278	Binarno: 0100010110 Dobrota: 150
+X:  835	Binarno: 1101000011 Dobrota: 187
+X:  889	Binarno: 1101111001 Dobrota: 189
+X:  322	Binarno: 0101000010 Dobrota: 194
+X:  323	Binarno: 0101000011 Dobrota: 196
+X:  882	Binarno: 1101110010 Dobrota: 207
+X:  332	Binarno: 0101001100 Dobrota: 214
+X:  334	Binarno: 0101001110 Dobrota: 218
+X:  340	Binarno: 0101010100 Dobrota: 230
+X:  865	Binarno: 1101100001 Dobrota: 232
+X:  378	Binarno: 0101111010 Dobrota: 237
+X:  344	Binarno: 0101011000 Dobrota: 238
+X:  346	Binarno: 0101011010 Dobrota: 242
+X:  374	Binarno: 0101110110 Dobrota: 244
+X:  348	Binarno: 0101011100 Dobrota: 246
+X:  351	Binarno: 0101011111 Dobrota: 252
+X:  354	Binarno: 0101100010 Dobrota: 258
+X:  355	Binarno: 0101100011 Dobrota: 260
+X:  360	Binarno: 0101101000 Dobrota: 270
+
+Max dobrota jedinke: 270
+Prosjecna dobrota jedinki: 220.7
+Ukupna dobrota jedinki: 4414
+
+
+Generacija: 23
+X:  970	Binarno: 1111001010 Dobrota:   0
+X:   82	Binarno: 0001010010 Dobrota: 112
+X:  893	Binarno: 1101111101 Dobrota: 178
+X:  835	Binarno: 1101000011 Dobrota: 187
+X:  843	Binarno: 1101001011 Dobrota: 199
+X:  883	Binarno: 1101110011 Dobrota: 205
+X:  882	Binarno: 1101110010 Dobrota: 207
+X:  330	Binarno: 0101001010 Dobrota: 210
+X:  332	Binarno: 0101001100 Dobrota: 214
+X:  334	Binarno: 0101001110 Dobrota: 218
+X:  339	Binarno: 0101010011 Dobrota: 228
+X:  342	Binarno: 0101010110 Dobrota: 234
+X:  379	Binarno: 0101111011 Dobrota: 235
+X:  354	Binarno: 0101100010 Dobrota: 258
+X:  355	Binarno: 0101100011 Dobrota: 260
+X:  365	Binarno: 0101101101 Dobrota: 261
+X:  356	Binarno: 0101100100 Dobrota: 262
+X:  362	Binarno: 0101101010 Dobrota: 266
+X:  359	Binarno: 0101100111 Dobrota: 268
+X:  360	Binarno: 0101101000 Dobrota: 270
+
+Max dobrota jedinke: 270
+Prosjecna dobrota jedinki: 213.6
+Ukupna dobrota jedinki: 4272
+
+
+Generacija: 24
+X:   90	Binarno: 0001011010 Dobrota: 120
+X:  893	Binarno: 1101111101 Dobrota: 178
+X:  323	Binarno: 0101000011 Dobrota: 196
+X:  326	Binarno: 0101000110 Dobrota: 202
+X:  328	Binarno: 0101001000 Dobrota: 206
+X:  850	Binarno: 1101010010 Dobrota: 210
+X:  381	Binarno: 0101111101 Dobrota: 232
+X:  342	Binarno: 0101010110 Dobrota: 234
+X:  378	Binarno: 0101111010 Dobrota: 237
+X:  375	Binarno: 0101110111 Dobrota: 243
+X:  350	Binarno: 0101011110 Dobrota: 250
+X:  370	Binarno: 0101110010 Dobrota: 252
+X:  353	Binarno: 0101100001 Dobrota: 256
+X:  354	Binarno: 0101100010 Dobrota: 258
+X:  355	Binarno: 0101100011 Dobrota: 260
+X:  356	Binarno: 0101100100 Dobrota: 262
+X:  357	Binarno: 0101100101 Dobrota: 264
+X:  362	Binarno: 0101101010 Dobrota: 266
+X:  359	Binarno: 0101100111 Dobrota: 268
+X:  360	Binarno: 0101101000 Dobrota: 270
+
+Max dobrota jedinke: 270
+Prosjecna dobrota jedinki: 233.2
+Ukupna dobrota jedinki: 4664
+
+
+Generacija: 25
+X:  835	Binarno: 1101000011 Dobrota: 187
+X:  889	Binarno: 1101111001 Dobrota: 189
+X:  888	Binarno: 1101111000 Dobrota: 191
+X:  321	Binarno: 0101000001 Dobrota: 192
+X:  840	Binarno: 1101001000 Dobrota: 195
+X:  323	Binarno: 0101000011 Dobrota: 196
+X:  326	Binarno: 0101000110 Dobrota: 202
+X:  339	Binarno: 0101010011 Dobrota: 228
+X:  381	Binarno: 0101111101 Dobrota: 232
+X:  342	Binarno: 0101010110 Dobrota: 234
+X:  346	Binarno: 0101011010 Dobrota: 242
+X:  375	Binarno: 0101110111 Dobrota: 243
+X:  370	Binarno: 0101110010 Dobrota: 252
+X:  369	Binarno: 0101110001 Dobrota: 253
+X:  353	Binarno: 0101100001 Dobrota: 256
+X:  366	Binarno: 0101101110 Dobrota: 259
+X:  355	Binarno: 0101100011 Dobrota: 260
+X:  356	Binarno: 0101100100 Dobrota: 262
+X:  357	Binarno: 0101100101 Dobrota: 264
+X:  360	Binarno: 0101101000 Dobrota: 270
+
+Max dobrota jedinke: 270
+Prosjecna dobrota jedinki: 230.35
+Ukupna dobrota jedinki: 4607
+
+
+Generacija: 26
+X:  837	Binarno: 1101000101 Dobrota: 190
+X:  321	Binarno: 0101000001 Dobrota: 192
+X:  840	Binarno: 1101001000 Dobrota: 195
+X:  841	Binarno: 1101001001 Dobrota: 196
+X:  327	Binarno: 0101000111 Dobrota: 204
+X:  339	Binarno: 0101010011 Dobrota: 228
+X:  377	Binarno: 0101111001 Dobrota: 239
+X:  376	Binarno: 0101111000 Dobrota: 241
+X:  375	Binarno: 0101110111 Dobrota: 243
+X:  349	Binarno: 0101011101 Dobrota: 248
+X:  372	Binarno: 0101110100 Dobrota: 248
+X:  371	Binarno: 0101110011 Dobrota: 250
+X:  369	Binarno: 0101110001 Dobrota: 253
+X:  353	Binarno: 0101100001 Dobrota: 256
+X:  354	Binarno: 0101100010 Dobrota: 258
+X:  355	Binarno: 0101100011 Dobrota: 260
+X:  356	Binarno: 0101100100 Dobrota: 262
+X:  364	Binarno: 0101101100 Dobrota: 262
+X:  357	Binarno: 0101100101 Dobrota: 264
+X:  360	Binarno: 0101101000 Dobrota: 270
+
+Max dobrota jedinke: 270
+Prosjecna dobrota jedinki: 237.95
+Ukupna dobrota jedinki: 4759
 
 
 Generacija: 27
-X:   49	Binarno: 0000110001 Dobrota:  79
-X:  449	Binarno: 0111000001 Dobrota: 109
-X:   81	Binarno: 0001010001 Dobrota: 111
-X:  126	Binarno: 0001111110 Dobrota: 115
-X:  120	Binarno: 0001111000 Dobrota: 120
-X:  104	Binarno: 0001101000 Dobrota: 120
-X:  269	Binarno: 0100001101 Dobrota: 148
-X:  331	Binarno: 0101001011 Dobrota: 212
-X:  332	Binarno: 0101001100 Dobrota: 214
-X:  335	Binarno: 0101001111 Dobrota: 220
-X:  382	Binarno: 0101111110 Dobrota: 230
-X:  347	Binarno: 0101011011 Dobrota: 244
-X:  352	Binarno: 0101100000 Dobrota: 254
-X:  367	Binarno: 0101101111 Dobrota: 257
-X:  365	Binarno: 0101101101 Dobrota: 261
+X:  321	Binarno: 0101000001 Dobrota: 192
+X:  840	Binarno: 1101001000 Dobrota: 195
+X:  325	Binarno: 0101000101 Dobrota: 200
+X:  337	Binarno: 0101010001 Dobrota: 224
+X:  874	Binarno: 1101101010 Dobrota: 229
+X:  341	Binarno: 0101010101 Dobrota: 232
+X:  343	Binarno: 0101010111 Dobrota: 236
+X:  344	Binarno: 0101011000 Dobrota: 238
+X:  377	Binarno: 0101111001 Dobrota: 239
+X:  376	Binarno: 0101111000 Dobrota: 241
+X:  372	Binarno: 0101110100 Dobrota: 248
+X:  369	Binarno: 0101110001 Dobrota: 253
+X:  354	Binarno: 0101100010 Dobrota: 258
+X:  355	Binarno: 0101100011 Dobrota: 260
+X:  364	Binarno: 0101101100 Dobrota: 262
 X:  356	Binarno: 0101100100 Dobrota: 262
-X:  363	Binarno: 0101101011 Dobrota: 264
+X:  357	Binarno: 0101100101 Dobrota: 264
 X:  359	Binarno: 0101100111 Dobrota: 268
 X:  361	Binarno: 0101101001 Dobrota: 268
 X:  360	Binarno: 0101101000 Dobrota: 270
 
 Max dobrota jedinke: 270
-Prosjecna dobrota jedinki: 201.3
-Ukupna dobrota jedinki: 4026
+Prosjecna dobrota jedinki: 241.95
+Ukupna dobrota jedinki: 4839
 
 
 Generacija: 28
-X:  488	Binarno: 0111101000 Dobrota:  39
-X:  108	Binarno: 0001101100 Dobrota: 120
-X:  264	Binarno: 0100001000 Dobrota: 139
-X:  268	Binarno: 0100001100 Dobrota: 146
-X:  297	Binarno: 0100101001 Dobrota: 150
-X:  301	Binarno: 0100101101 Dobrota: 152
-X:  320	Binarno: 0101000000 Dobrota: 190
-X:  323	Binarno: 0101000011 Dobrota: 196
-X:  334	Binarno: 0101001110 Dobrota: 218
-X:  337	Binarno: 0101010001 Dobrota: 224
-X:  381	Binarno: 0101111101 Dobrota: 232
-X:  347	Binarno: 0101011011 Dobrota: 244
-X:  372	Binarno: 0101110100 Dobrota: 248
-X:  367	Binarno: 0101101111 Dobrota: 257
+X:  465	Binarno: 0111010001 Dobrota:  81
+X:  324	Binarno: 0101000100 Dobrota: 198
+X:  325	Binarno: 0101000101 Dobrota: 200
+X:  333	Binarno: 0101001101 Dobrota: 216
+X:  858	Binarno: 1101011010 Dobrota: 222
+X:  382	Binarno: 0101111110 Dobrota: 230
+X:  380	Binarno: 0101111100 Dobrota: 234
+X:  343	Binarno: 0101010111 Dobrota: 236
+X:  378	Binarno: 0101111010 Dobrota: 237
+X:  369	Binarno: 0101110001 Dobrota: 253
+X:  352	Binarno: 0101100000 Dobrota: 254
 X:  354	Binarno: 0101100010 Dobrota: 258
-X:  366	Binarno: 0101101110 Dobrota: 259
 X:  355	Binarno: 0101100011 Dobrota: 260
-X:  363	Binarno: 0101101011 Dobrota: 264
+X:  365	Binarno: 0101101101 Dobrota: 261
+X:  364	Binarno: 0101101100 Dobrota: 262
+X:  356	Binarno: 0101100100 Dobrota: 262
+X:  357	Binarno: 0101100101 Dobrota: 264
 X:  362	Binarno: 0101101010 Dobrota: 266
+X:  359	Binarno: 0101100111 Dobrota: 268
 X:  360	Binarno: 0101101000 Dobrota: 270
 
 Max dobrota jedinke: 270
-Prosjecna dobrota jedinki: 206.6
-Ukupna dobrota jedinki: 4132
+Prosjecna dobrota jedinki: 236.6
+Ukupna dobrota jedinki: 4732
 
 
 Generacija: 29
-X:  125	Binarno: 0001111101 Dobrota: 115
-X:  124	Binarno: 0001111100 Dobrota: 116
-X:  104	Binarno: 0001101000 Dobrota: 120
-X:  288	Binarno: 0100100000 Dobrota: 150
-X:  301	Binarno: 0100101101 Dobrota: 152
-X:  304	Binarno: 0100110000 Dobrota: 158
-X:  320	Binarno: 0101000000 Dobrota: 190
-X:  322	Binarno: 0101000010 Dobrota: 194
-X:  323	Binarno: 0101000011 Dobrota: 196
-X:  326	Binarno: 0101000110 Dobrota: 202
-X:  337	Binarno: 0101010001 Dobrota: 224
-X:  383	Binarno: 0101111111 Dobrota: 228
-X:  375	Binarno: 0101110111 Dobrota: 243
+X:   74	Binarno: 0001001010 Dobrota: 104
+X:  122	Binarno: 0001111010 Dobrota: 118
+X:  832	Binarno: 1101000000 Dobrota: 183
+X:  324	Binarno: 0101000100 Dobrota: 198
+X:  327	Binarno: 0101000111 Dobrota: 204
+X:  381	Binarno: 0101111101 Dobrota: 232
+X:  380	Binarno: 0101111100 Dobrota: 234
+X:  376	Binarno: 0101111000 Dobrota: 241
+X:  374	Binarno: 0101110110 Dobrota: 244
+X:  349	Binarno: 0101011101 Dobrota: 248
 X:  372	Binarno: 0101110100 Dobrota: 248
+X:  370	Binarno: 0101110010 Dobrota: 252
 X:  353	Binarno: 0101100001 Dobrota: 256
-X:  367	Binarno: 0101101111 Dobrota: 257
-X:  354	Binarno: 0101100010 Dobrota: 258
-X:  363	Binarno: 0101101011 Dobrota: 264
+X:  355	Binarno: 0101100011 Dobrota: 260
+X:  356	Binarno: 0101100100 Dobrota: 262
+X:  364	Binarno: 0101101100 Dobrota: 262
+X:  357	Binarno: 0101100101 Dobrota: 264
+X:  358	Binarno: 0101100110 Dobrota: 266
 X:  362	Binarno: 0101101010 Dobrota: 266
 X:  360	Binarno: 0101101000 Dobrota: 270
 
 Max dobrota jedinke: 270
-Prosjecna dobrota jedinki: 205.35
-Ukupna dobrota jedinki: 4107
+Prosjecna dobrota jedinki: 230.6
+Ukupna dobrota jedinki: 4612
 
 
 Generacija: 30
-X:  124	Binarno: 0001111100 Dobrota: 116
-X:  272	Binarno: 0100010000 Dobrota: 150
+X:   74	Binarno: 0001001010 Dobrota: 104
 X:  322	Binarno: 0101000010 Dobrota: 194
-X:  323	Binarno: 0101000011 Dobrota: 196
 X:  329	Binarno: 0101001001 Dobrota: 208
-X:  336	Binarno: 0101010000 Dobrota: 222
-X:  337	Binarno: 0101010001 Dobrota: 224
-X:  383	Binarno: 0101111111 Dobrota: 228
-X:  341	Binarno: 0101010101 Dobrota: 232
+X:  880	Binarno: 1101110000 Dobrota: 213
 X:  381	Binarno: 0101111101 Dobrota: 232
-X:  374	Binarno: 0101110110 Dobrota: 244
-X:  373	Binarno: 0101110101 Dobrota: 246
+X:  341	Binarno: 0101010101 Dobrota: 232
+X:  867	Binarno: 1101100011 Dobrota: 235
+X:  372	Binarno: 0101110100 Dobrota: 248
 X:  371	Binarno: 0101110011 Dobrota: 250
+X:  351	Binarno: 0101011111 Dobrota: 252
+X:  370	Binarno: 0101110010 Dobrota: 252
 X:  352	Binarno: 0101100000 Dobrota: 254
-X:  353	Binarno: 0101100001 Dobrota: 256
+X:  368	Binarno: 0101110000 Dobrota: 255
 X:  354	Binarno: 0101100010 Dobrota: 258
-X:  365	Binarno: 0101101101 Dobrota: 261
+X:  355	Binarno: 0101100011 Dobrota: 260
 X:  356	Binarno: 0101100100 Dobrota: 262
-X:  363	Binarno: 0101101011 Dobrota: 264
+X:  364	Binarno: 0101101100 Dobrota: 262
+X:  357	Binarno: 0101100101 Dobrota: 264
+X:  361	Binarno: 0101101001 Dobrota: 268
 X:  360	Binarno: 0101101000 Dobrota: 270
 
 Max dobrota jedinke: 270
-Prosjecna dobrota jedinki: 228.35
-Ukupna dobrota jedinki: 4567
+Prosjecna dobrota jedinki: 238.65
+Ukupna dobrota jedinki: 4773
 
 
