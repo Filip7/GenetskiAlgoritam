@@ -20,9 +20,8 @@ namespace GA {
             auto rand_broj = Rand<int>(0, 1);
             x.push_back(rand_broj);
         }
-        x_dec = binarniUDecimalni(x);
 
-        dobrota_jedinke = static_cast<int>(dobrota(x_dec));
+        postaviXDec_dobrotu();
     }
 
     Jedinka::Jedinka(Jedinka& roditelj1, Jedinka& roditelj2)
@@ -39,8 +38,7 @@ namespace GA {
             }
         }
 
-        x_dec = binarniUDecimalni(this->x);
-        dobrota_jedinke = static_cast<int>(dobrota(x_dec));
+        postaviXDec_dobrotu();
     }
 
     void Jedinka::mutiraj()
@@ -50,6 +48,12 @@ namespace GA {
                 it = it==0 ? 1 : 0;
             }
         }
+
+        postaviXDec_dobrotu();
+    }
+
+    void Jedinka::postaviXDec_dobrotu()
+    {
         x_dec = binarniUDecimalni(x);
         dobrota_jedinke = static_cast<int>(dobrota(x_dec));
     }

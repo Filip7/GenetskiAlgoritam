@@ -51,6 +51,11 @@ namespace GA {
          * Odraduje mutiranje, koristi se u konstruktoru za izradu nove jedinke preko roditelja
          */
         void mutiraj();
+
+        /**
+         * Izracunava x u decimalnom brojevnom sustavu zatim izracuna dobrotu tog broja
+         */
+        void postaviXDec_dobrotu();
     };
 
 }
