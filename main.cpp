@@ -27,6 +27,7 @@ int main()
 {
     string PUTANJA = "../genetskiAlgoritamRezultat.txt";
     vector<GA::Jedinka*> jedinke;
+    jedinke.reserve(VELICINA_POPULACIJE);
 
     auto usporedi = [](GA::Jedinka* x, GA::Jedinka* y) { return x->getDobrota_jedinke() < y->getDobrota_jedinke(); };
 

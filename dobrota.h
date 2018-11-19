@@ -16,7 +16,7 @@ int binarniUDecimalni(std::vector<int> jedinka)
     int dec = 0;
     int j = 0;
     for (int i = BROJ_BITOVA-1; i>=0; --i) {
-        dec += (std::pow(2, j) * jedinka[i]);
+        dec += static_cast<int>(std::pow(2, j) * jedinka[i]);
         ++j;
     }
 
